@@ -1,0 +1,3157 @@
+Player	Team	Number	Position	Height	Weight	Last Attended	Country
+Steven Adams Headshot
+Steven
+
+Adams
+
+HOU	12	C	6-11	265 lbs	Pittsburgh	New Zealand
+Bam Adebayo Headshot
+Bam
+
+Adebayo
+
+MIA	13	C-F	6-9	255 lbs	Kentucky	USA
+Ochai Agbaji Headshot
+Ochai
+
+Agbaji
+
+TOR	30	G	6-5	215 lbs	Kansas	USA
+Santi Aldama Headshot
+Santi
+
+Aldama
+
+MEM	7	F-C	7-0	215 lbs	Loyola-Maryland	Spain
+Trey Alexander Headshot
+Trey
+
+Alexander
+
+NOP	23	G	6-5	185 lbs	Creighton	USA
+Nickeil Alexander-Walker Headshot
+Nickeil
+
+Alexander-Walker
+
+ATL	7	G	6-5	205 lbs	Virginia Tech	Canada
+Grayson Allen Headshot
+Grayson
+
+Allen
+
+PHX	8	G	6-3	198 lbs	Duke	USA
+Jarrett Allen Headshot
+Jarrett
+
+Allen
+
+CLE	31	C	6-9	243 lbs	Texas	USA
+Jose Alvarado Headshot
+Jose
+
+Alvarado
+
+NOP	15	G	6-0	179 lbs	Georgia Tech	USA
+Kyle Anderson Headshot
+Kyle
+
+Anderson
+
+UTA	2	F-G	6-8	230 lbs	UCLA	USA
+Alex Antetokounmpo Headshot
+Alex
+
+Antetokounmpo
+
+MIL		F	6-8	214 lbs		Greece
+Giannis Antetokounmpo Headshot
+Giannis
+
+Antetokounmpo
+
+MIL	34	F	6-11	243 lbs	Filathlitikos	Greece
+Thanasis Antetokounmpo Headshot
+Thanasis
+
+Antetokounmpo
+
+MIL	43	F	6-7	219 lbs	Panathinaikos	Greece
+Cole Anthony Headshot
+Cole
+
+Anthony
+
+MIL	50	G	6-2	185 lbs	North Carolina	USA
+OG Anunoby Headshot
+OG
+
+Anunoby
+
+NYK	8	F-G	6-7	240 lbs	Indiana	United Kingdom
+Deni Avdija Headshot
+Deni
+
+Avdija
+
+POR	8	F	6-8	228 lbs	Maccabi Tel Aviv	Israel
+Deandre Ayton Headshot
+Deandre
+
+Ayton
+
+LAL	5	C	7-0	252 lbs	Arizona	Bahamas
+Marvin Bagley III Headshot
+Marvin
+
+Bagley III
+
+WAS	35	F	6-10	235 lbs	Duke	USA
+Ace Bailey Headshot
+Ace
+
+Bailey
+
+UTA	19	F	6-9	200 lbs	Rutgers	USA
+LaMelo Ball Headshot
+LaMelo
+
+Ball
+
+CHA	1	G	6-7	180 lbs	Illawarra	USA
+Lonzo Ball Headshot
+Lonzo
+
+Ball
+
+CLE	2	G	6-5	190 lbs	UCLA	USA
+Paolo Banchero Headshot
+Paolo
+
+Banchero
+
+ORL	5	F	6-10	250 lbs	Duke	USA
+Desmond Bane Headshot
+Desmond
+
+Bane
+
+ORL	3	G	6-6	215 lbs	TCU	USA
+Dominick Barlow Headshot
+Dominick
+
+Barlow
+
+PHI	25	F	6-9	215 lbs	Overtime Elite	USA
+Harrison Barnes Headshot
+Harrison
+
+Barnes
+
+SAS	40	F	6-7	225 lbs	North Carolina	USA
+Scottie Barnes Headshot
+Scottie
+
+Barnes
+
+TOR	4	F-G	6-8	237 lbs	Florida State	USA
+Brooks Barnhizer Headshot
+Brooks
+
+Barnhizer
+
+OKC	23	G	6-5	230 lbs	Northwestern	USA
+RJ Barrett Headshot
+RJ
+
+Barrett
+
+TOR	9	F-G	6-6	214 lbs	Duke	Canada
+Charles Bassey Headshot
+Charles
+
+Bassey
+
+MEM	28	C-F	6-10	230 lbs	Western Kentucky	Nigeria
+Tamar Bates Headshot
+Tamar
+
+Bates
+
+DEN	7	G	6-4	195 lbs	Missouri	USA
+Jamison Battle Headshot
+Jamison
+
+Battle
+
+TOR	77	F	6-7	220 lbs	Ohio State	USA
+Nicolas Batum Headshot
+Nicolas
+
+Batum
+
+LAC	33	G-F	6-7	230 lbs	Le Mans	France
+Bradley Beal Headshot
+Bradley
+
+Beal
+
+LAC	0	G	6-4	207 lbs	Florida	USA
+Joan Beringer Headshot
+Joan
+
+Beringer
+
+MIN	19	F	6-11	230 lbs	-	France
+Saddiq Bey Headshot
+Saddiq
+
+Bey
+
+NOP	41	G-F	6-8	215 lbs	Villanova	USA
+Goga Bitadze Headshot
+Goga
+
+Bitadze
+
+ORL	35	C-F	6-11	250 lbs	Mega Basket	Georgia
+Bismack Biyombo Headshot
+Bismack
+
+Biyombo
+
+SAS	18	C	6-8	255 lbs	Baloncesto Fuenlabrada	DRC
+Anthony Black Headshot
+Anthony
+
+Black
+
+ORL	0	G	6-7	200 lbs	Arkansas	USA
+Bogdan Bogdanović Headshot
+Bogdan
+
+Bogdanović
+
+LAC	10	G	6-5	225 lbs	Fenerbahce	Serbia
+Adem Bona Headshot
+Adem
+
+Bona
+
+PHI	30	F	6-10	235 lbs	UCLA	Nigeria
+Devin Booker Headshot
+Devin
+
+Booker
+
+PHX	1	G	6-5	206 lbs	Kentucky	USA
+Chris Boucher Headshot
+Chris
+
+Boucher
+
+BOS	25	F	6-8	200 lbs	Oregon	Saint Lucia
+Tony Bradley Headshot
+Tony
+
+Bradley
+
+IND	13	C-F	6-10	248 lbs	North Carolina	USA
+Malaki Branham Headshot
+Malaki
+
+Branham
+
+WAS	8	F	6-4	180 lbs	Ohio State	USA
+Christian Braun Headshot
+Christian
+
+Braun
+
+DEN	0	G	6-6	220 lbs	Kansas	USA
+Koby Brea Headshot
+Koby
+
+Brea
+
+PHX	14	G	6-5	215 lbs	Kentucky	USA
+Mikal Bridges Headshot
+Mikal
+
+Bridges
+
+NYK	25	G-F	6-6	209 lbs	Villanova	USA
+Miles Bridges Headshot
+Miles
+
+Bridges
+
+CHA	0	F	6-7	225 lbs	Michigan State	USA
+Dillon Brooks Headshot
+Dillon
+
+Brooks
+
+PHX	3	G-F	6-7	225 lbs	Oregon	Canada
+Johni Broome Headshot
+Johni
+
+Broome
+
+PHI	22	F	6-10	235 lbs	Auburn	USA
+Bruce Brown Headshot
+Bruce
+
+Brown
+
+DEN	11	G-F	6-4	202 lbs	Miami	USA
+Jaylen Brown Headshot
+Jaylen
+
+Brown
+
+BOS	7	G-F	6-6	223 lbs	California	USA
+Kobe Brown Headshot
+Kobe
+
+Brown
+
+LAC	24	F	6-7	250 lbs	Missouri	USA
+Jalen Brunson Headshot
+Jalen
+
+Brunson
+
+NYK	11	G	6-2	190 lbs	Villanova	USA
+Carter Bryant Headshot
+Carter
+
+Bryant
+
+SAS	11	F	6-6	220 lbs	Arizona	USA
+Thomas Bryant Headshot
+Thomas
+
+Bryant
+
+CLE	3	C-F	6-9	248 lbs	Indiana	USA
+Jimmy Butler III Headshot
+Jimmy
+
+Butler III
+
+GSW	10	F	6-6	230 lbs	Marquette	USA
+Matas Buzelis Headshot
+Matas
+
+Buzelis
+
+CHI	14	F	6-8	209 lbs	NBA G League Ignite	USA
+Jamal Cain Headshot
+Jamal
+
+Cain
+
+ORL	8	F	6-7	191 lbs	Oakland	USA
+Kentavious Caldwell-Pope Headshot
+Kentavious
+
+Caldwell-Pope
+
+MEM	3	G	6-5	204 lbs	Georgia	USA
+Toumani Camara Headshot
+Toumani
+
+Camara
+
+POR	33	F	6-7	230 lbs	Dayton	Belgium
+Clint Capela Headshot
+Clint
+
+Capela
+
+HOU	30	C	6-10	256 lbs	Elan Chalon	Switzerland
+Dylan Cardwell Headshot
+Dylan
+
+Cardwell
+
+SAC		C	6-10	255 lbs	Auburn	USA
+Branden Carlson Headshot
+Branden
+
+Carlson
+
+OKC	15	C	7-0	220 lbs	Utah	USA
+Bub Carrington Headshot
+Bub
+
+Carrington
+
+WAS	7	G	6-4	190 lbs	Pittsburgh	USA
+Devin Carter Headshot
+Devin
+
+Carter
+
+SAC	22	G	6-2	195 lbs	Providence	USA
+Jevon Carter Headshot
+Jevon
+
+Carter
+
+CHI	5	G	6-0	200 lbs	West Virginia	USA
+Wendell Carter Jr. Headshot
+Wendell
+
+Carter Jr.
+
+ORL	34	C-F	6-10	270 lbs	Duke	USA
+Alex Caruso Headshot
+Alex
+
+Caruso
+
+OKC	9	G	6-5	186 lbs	Texas A&M	USA
+Stephon Castle Headshot
+Stephon
+
+Castle
+
+SAS	5	G	6-6	215 lbs	Connecticut	USA
+Colin Castleton Headshot
+Colin
+
+Castleton
+
+ORL	14	C	6-10	250 lbs	Florida	USA
+Julian Champagnie Headshot
+Julian
+
+Champagnie
+
+SAS	30	F	6-7	217 lbs	St. John's	USA
+Justin Champagnie Headshot
+Justin
+
+Champagnie
+
+WAS	9	G-F	6-6	206 lbs	Pittsburgh	USA
+Cam Christie Headshot
+Cam
+
+Christie
+
+LAC	12	G	6-5	190 lbs	Minnesota	USA
+Max Christie Headshot
+Max
+
+Christie
+
+DAL	00	G	6-5	190 lbs	Michigan State	USA
+Moussa Cisse Headshot
+Moussa
+
+Cisse
+
+DAL	30	C	6-11	220 lbs	Memphis	Guinea
+Sidy Cissoko Headshot
+Sidy
+
+Cissoko
+
+POR	91	G	6-6	220 lbs	NBA G League Ignite	France
+Jaylen Clark Headshot
+Jaylen
+
+Clark
+
+MIN	22	G	6-5	205 lbs	UCLA	USA
+Brandon Clarke Headshot
+Brandon
+
+Clarke
+
+MEM	15	F	6-8	215 lbs	Gonzaga	Canada
+Jordan Clarkson Headshot
+Jordan
+
+Clarkson
+
+NYK	00	G	6-5	194 lbs	Missouri	USA
+Nic Claxton Headshot
+Nic
+
+Claxton
+
+BKN	33	C	6-11	215 lbs	Georgia	USA
+Walter Clayton Jr. Headshot
+Walter
+
+Clayton Jr.
+
+UTA	13	G	6-4	195 lbs	Florida	USA
+Nique Clifford Headshot
+Nique
+
+Clifford
+
+SAC	5	G	6-5	175 lbs	Colorado State	USA
+Donovan Clingan Headshot
+Donovan
+
+Clingan
+
+POR	23	C	7-2	280 lbs	Connecticut	USA
+Noah Clowney Headshot
+Noah
+
+Clowney
+
+BKN	21	F-C	6-10	210 lbs	Alabama	USA
+Amir Coffey Headshot
+Amir
+
+Coffey
+
+MIL	17	G-F	6-7	210 lbs	Minnesota	USA
+Isaiah Collier Headshot
+Isaiah
+
+Collier
+
+UTA	8	G	6-4	210 lbs	Southern California	USA
+John Collins Headshot
+John
+
+Collins
+
+LAC	20	F-C	6-9	226 lbs	Wake Forest	USA
+Zach Collins Headshot
+Zach
+
+Collins
+
+CHI	12	F-C	6-9	250 lbs	Gonzaga	USA
+Mike Conley Headshot
+Mike
+
+Conley
+
+MIN	10	G	6-1	175 lbs	Ohio State	USA
+Pat Connaughton Headshot
+Pat
+
+Connaughton
+
+CHA	21	G	6-5	209 lbs	Notre Dame	USA
+Javonte Cooke Headshot
+Javonte
+
+Cooke
+
+POR	18	G	6-6	185 lbs	Winston-Salem	USA
+Sharife Cooper Headshot
+Sharife
+
+Cooper
+
+WAS	13	G	6-0	176 lbs	Auburn	USA
+Bilal Coulibaly Headshot
+Bilal
+
+Coulibaly
+
+WAS	0	G	6-7	195 lbs	Metropolitans 92	France
+Cedric Coward Headshot
+Cedric
+
+Coward
+
+MEM	23	G	6-5	206 lbs	Washington State	USA
+Isaiah Crawford Headshot
+Isaiah
+
+Crawford
+
+HOU	27	F	6-6	220 lbs	Louisiana Tech	USA
+Cade Cunningham Headshot
+Cade
+
+Cunningham
+
+DET	2	G	6-6	220 lbs	Oklahoma State	USA
+Stephen Curry Headshot
+Stephen
+
+Curry
+
+GSW	30	G	6-2	185 lbs	Davidson	USA
+Tristan da Silva Headshot
+Tristan
+
+da Silva
+
+ORL	23	F	6-8	217 lbs	Colorado	Germany
+Pacôme Dadiet Headshot
+Pacôme
+
+Dadiet
+
+NYK	4	F	6-9	210 lbs	Ratiopharm Ulm	France
+Dyson Daniels Headshot
+Dyson
+
+Daniels
+
+ATL	5	G	6-7	199 lbs	NBA G League Ignite	Australia
+N'Faly Dante Headshot
+N'Faly
+
+Dante
+
+ATL	12	C	6-11	230 lbs	Oregon	Mali
+Anthony Davis Headshot
+Anthony
+
+Davis
+
+DAL	3	F-C	6-10	253 lbs	Kentucky	USA
+JD Davison Headshot
+JD
+
+Davison
+
+HOU	4	G	6-1	195 lbs	Alabama	USA
+Egor Dëmin Headshot
+Egor
+
+Dëmin
+
+BKN	8	G	6-8	200 lbs	Brigham Young	Russia
+RayJ Dennis Headshot
+RayJ
+
+Dennis
+
+IND	10	G	6-1	180 lbs	Baylor	USA
+DeMar DeRozan Headshot
+DeMar
+
+DeRozan
+
+SAC	10	G-F	6-6	220 lbs	Southern California	USA
+Moussa Diabaté Headshot
+Moussa
+
+Diabaté
+
+CHA	14	F	6-10	210 lbs	Michigan	France
+Mohamed Diawara Headshot
+Mohamed
+
+Diawara
+
+NYK	51	F	6-9	225 lbs	-	France
+Gradey Dick Headshot
+Gradey
+
+Dick
+
+TOR	1	G-F	6-7	200 lbs	Kansas	USA
+Hunter Dickinson Headshot
+Hunter
+
+Dickinson
+
+NOP	4	C	7-1	255 lbs	Kansas	USA
+Ousmane Dieng Headshot
+Ousmane
+
+Dieng
+
+OKC	13	F	6-9	185 lbs	New Zealand Breakers	France
+Rob Dillingham Headshot
+Rob
+
+Dillingham
+
+MIN	4	G	6-2	175 lbs	Kentucky	USA
+Donte DiVincenzo Headshot
+Donte
+
+DiVincenzo
+
+MIN	0	G	6-4	203 lbs	Villanova	USA
+Luka Dončić Headshot
+Luka
+
+Dončić
+
+LAL	77	F-G	6-8	230 lbs	Real Madrid	Slovenia
+Luguentz Dort Headshot
+Luguentz
+
+Dort
+
+OKC	5	G	6-4	220 lbs	Arizona State	Canada
+Ayo Dosunmu Headshot
+Ayo
+
+Dosunmu
+
+CHI	11	G	6-4	200 lbs	Illinois	USA
+Andre Drummond Headshot
+Andre
+
+Drummond
+
+PHI	1	C	6-11	279 lbs	Connecticut	USA
+Kris Dunn Headshot
+Kris
+
+Dunn
+
+LAC	8	G	6-3	205 lbs	Providence	USA
+Ryan Dunn Headshot
+Ryan
+
+Dunn
+
+PHX	0	F	6-7	216 lbs	Virginia	USA
+Kevin Durant Headshot
+Kevin
+
+Durant
+
+HOU	7	F	6-11	240 lbs	Texas	USA
+Jalen Duren Headshot
+Jalen
+
+Duren
+
+DET	0	C	6-10	250 lbs	Memphis	USA
+Nikola Đurišić Headshot
+Nikola
+
+Đurišić
+
+ATL	22	G	6-8	214 lbs	Mega Basket	Belgium
+Tari Eason Headshot
+Tari
+
+Eason
+
+HOU	17	F	6-8	215 lbs	Louisiana State	USA
+Zach Edey Headshot
+Zach
+
+Edey
+
+MEM	14	C	7-3	305 lbs	Purdue	Canada
+VJ Edgecombe Headshot
+VJ
+
+Edgecombe
+
+PHI	77	G	6-4	180 lbs	Baylor	USA
+Anthony Edwards Headshot
+Anthony
+
+Edwards
+
+MIN	5	G	6-4	225 lbs	Georgia	USA
+Justin Edwards Headshot
+Justin
+
+Edwards
+
+PHI	11	F	6-7	203 lbs	Kentucky	USA
+Keon Ellis Headshot
+Keon
+
+Ellis
+
+SAC	23	G	6-4	175 lbs	Alabama	USA
+Joel Embiid Headshot
+Joel
+
+Embiid
+
+PHI	21	C-F	7-0	280 lbs	Kansas	Cameroon
+Noa Essengue Headshot
+Noa
+
+Essengue
+
+CHI	24	F	6-8	200 lbs	-	France
+Tyson Etienne Headshot
+Tyson
+
+Etienne
+
+BKN	10	G	6-0	200 lbs	Wichita State	USA
+Drew Eubanks Headshot
+Drew
+
+Eubanks
+
+SAC	19	F-C	6-10	245 lbs	Oregon State	USA
+Tosan Evbuomwan Headshot
+Tosan
+
+Evbuomwan
+
+NYK	20	F	6-8	217 lbs	Princeton	United Kingdom
+Danté Exum Headshot
+Danté
+
+Exum
+
+DAL	0	G	6-5	214 lbs	Australian Institute of Sport	Australia
+Jeremiah Fears Headshot
+Jeremiah
+
+Fears
+
+NOP	0	G	6-3	190 lbs	Oklahoma	USA
+Kyle Filipowski Headshot
+Kyle
+
+Filipowski
+
+UTA	22	C	6-11	250 lbs	Duke	USA
+Dorian Finney-Smith Headshot
+Dorian
+
+Finney-Smith
+
+HOU	2	F	6-7	220 lbs	Florida	USA
+Cooper Flagg Headshot
+Cooper
+
+Flagg
+
+DAL	32	F	6-9	205 lbs	Duke	USA
+Rasheer Fleming Headshot
+Rasheer
+
+Fleming
+
+PHX	20	F	6-9	240 lbs	St. Joseph's (PA)	USA
+Trentyn Flowers Headshot
+Trentyn
+
+Flowers
+
+CHI	9	F	6-9	185 lbs	Adelaide	USA
+Simone Fontecchio Headshot
+Simone
+
+Fontecchio
+
+MIA	0	F	6-7	209 lbs	Baskonia	Italy
+De'Aaron Fox Headshot
+De'Aaron
+
+Fox
+
+SAS	4	G	6-3	185 lbs	Kentucky	USA
+Enrique Freeman Headshot
+Enrique
+
+Freeman
+
+MIN	25	F	6-9	220 lbs	Akron	USA
+Johnny Furphy Headshot
+Johnny
+
+Furphy
+
+IND	12	G	6-8	200 lbs	Kansas	Australia
+Daniel Gafford Headshot
+Daniel
+
+Gafford
+
+DAL	21	F-C	6-10	265 lbs	Arkansas	USA
+Myron Gardner Headshot
+Myron
+
+Gardner
+
+MIA		F	6-5	220 lbs	Arkansas-Little Rock	USA
+Darius Garland Headshot
+Darius
+
+Garland
+
+CLE	10	G	6-1	192 lbs	Vanderbilt	USA
+Luka Garza Headshot
+Luka
+
+Garza
+
+BOS	52	C	6-10	243 lbs	Iowa	USA
+Keyonte George Headshot
+Keyonte
+
+George
+
+UTA	3	G	6-4	185 lbs	Baylor	USA
+Kyshawn George Headshot
+Kyshawn
+
+George
+
+WAS	18	F	6-8	200 lbs	Miami	Switzerland
+Paul George Headshot
+Paul
+
+George
+
+PHI	8	F	6-8	220 lbs	Fresno State	USA
+Josh Giddey Headshot
+Josh
+
+Giddey
+
+CHI	3	G	6-7	216 lbs	NBA Global Academy	Australia
+Shai Gilgeous-Alexander Headshot
+Shai
+
+Gilgeous-Alexander
+
+OKC	2	G	6-6	195 lbs	Kentucky	Canada
+Anthony Gill Headshot
+Anthony
+
+Gill
+
+WAS	16	F	6-7	230 lbs	Virginia	USA
+Collin Gillespie Headshot
+Collin
+
+Gillespie
+
+PHX	12	G	6-1	195 lbs	Villanova	USA
+Rudy Gobert Headshot
+Rudy
+
+Gobert
+
+MIN	27	C	7-1	258 lbs	Cholet	France
+Vladislav Goldin Headshot
+Vladislav
+
+Goldin
+
+MIA	50	C	7-0	250 lbs	Michigan	Russia
+Hugo González Headshot
+Hugo
+
+González
+
+BOS	28	G	6-6	200 lbs	-	Spain
+Jordan Goodwin Headshot
+Jordan
+
+Goodwin
+
+PHX	23	G	6-3	215 lbs	St. Louis	USA
+Aaron Gordon Headshot
+Aaron
+
+Gordon
+
+DEN	32	F	6-8	235 lbs	Arizona	USA
+Eric Gordon Headshot
+Eric
+
+Gordon
+
+PHI	23	G	6-3	215 lbs	Indiana	USA
+Jerami Grant Headshot
+Jerami
+
+Grant
+
+POR	9	F	6-7	213 lbs	Syracuse	USA
+AJ Green Headshot
+AJ
+
+Green
+
+MIL	20	G	6-4	190 lbs	Northern Iowa	USA
+Draymond Green Headshot
+Draymond
+
+Green
+
+GSW	23	F	6-6	230 lbs	Michigan State	USA
+Jalen Green Headshot
+Jalen
+
+Green
+
+PHX	4	G	6-4	186 lbs	NBA G League Ignite	USA
+Javonte Green Headshot
+Javonte
+
+Green
+
+DET	31	G	6-5	205 lbs	Radford	USA
+Jeff Green Headshot
+Jeff
+
+Green
+
+HOU	32	F	6-8	235 lbs	Georgetown	USA
+Josh Green Headshot
+Josh
+
+Green
+
+CHA	10	G	6-6	200 lbs	Arizona	Australia
+Quentin Grimes Headshot
+Quentin
+
+Grimes
+
+PHI	5	G	6-4	210 lbs	Houston	USA
+Mouhamed Gueye Headshot
+Mouhamed
+
+Gueye
+
+ATL	18	F	6-11	210 lbs	Washington State	Senegal
+Rui Hachimura Headshot
+Rui
+
+Hachimura
+
+LAL	28	F	6-8	230 lbs	Gonzaga	Japan
+Tyrese Haliburton Headshot
+Tyrese
+
+Haliburton
+
+IND	0	G	6-5	185 lbs	Iowa State	USA
+PJ Hall Headshot
+PJ
+
+Hall
+
+MEM	16	C	6-8	245 lbs	Clemson	USA
+Tim Hardaway Jr. Headshot
+Tim
+
+Hardaway Jr.
+
+DEN	10	G-F	6-5	205 lbs	Michigan	USA
+James Harden Headshot
+James
+
+Harden
+
+LAC	1	G	6-5	220 lbs	Arizona State	USA
+Jaden Hardy Headshot
+Jaden
+
+Hardy
+
+DAL	1	G	6-3	198 lbs	NBA G League Ignite	USA
+Elijah Harkless Headshot
+Elijah
+
+Harkless
+
+UTA	16	G	6-3	195 lbs	UNLV	USA
+Dylan Harper Headshot
+Dylan
+
+Harper
+
+SAS	2	G	6-5	215 lbs	Rutgers	USA
+Ron Harper Jr. Headshot
+Ron
+
+Harper Jr.
+
+BOS	13	G-F	6-5	233 lbs	Rutgers	USA
+Gary Harris Headshot
+Gary
+
+Harris
+
+MIL	11	G	6-4	210 lbs	Michigan State	USA
+Kevon Harris Headshot
+Kevon
+
+Harris
+
+HOU	00	G	6-5	216 lbs	Stephen F. Austin	USA
+Tobias Harris Headshot
+Tobias
+
+Harris
+
+DET	12	F	6-8	226 lbs	Tennessee	USA
+Josh Hart Headshot
+Josh
+
+Hart
+
+NYK	3	G	6-5	215 lbs	Villanova	USA
+Isaiah Hartenstein Headshot
+Isaiah
+
+Hartenstein
+
+OKC	55	C-F	7-0	250 lbs	Zalgiris	Germany
+Sam Hauser Headshot
+Sam
+
+Hauser
+
+BOS	30	F	6-7	217 lbs	Virginia	USA
+Jordan Hawkins Headshot
+Jordan
+
+Hawkins
+
+NOP	24	G	6-5	190 lbs	Connecticut	USA
+Jaxson Hayes Headshot
+Jaxson
+
+Hayes
+
+LAL	11	C-F	7-0	220 lbs	Texas	USA
+Nigel Hayes-Davis Headshot
+Nigel
+
+Hayes-Davis
+
+PHX	21	F	6-7	254 lbs	Wisconsin	USA
+Scoot Henderson Headshot
+Scoot
+
+Henderson
+
+POR	00	G	6-3	207 lbs	NBA G League Ignite	USA
+Taylor Hendricks Headshot
+Taylor
+
+Hendricks
+
+UTA	0	F	6-9	215 lbs	Central Florida	USA
+Chucky Hepburn Headshot
+Chucky
+
+Hepburn
+
+TOR		G	6-0	190 lbs	Louisville	USA
+Tyler Herro Headshot
+Tyler
+
+Herro
+
+MIA	14	G	6-5	195 lbs	Kentucky	USA
+Buddy Hield Headshot
+Buddy
+
+Hield
+
+GSW	7	G	6-4	220 lbs	Oklahoma	Bahamas
+Haywood Highsmith Headshot
+Haywood
+
+Highsmith
+
+BKN	7	F	6-5	220 lbs	Wheeling Jesuit	USA
+Aaron Holiday Headshot
+Aaron
+
+Holiday
+
+HOU	0	G	6-0	185 lbs	UCLA	USA
+Jrue Holiday Headshot
+Jrue
+
+Holiday
+
+POR	5	G	6-4	220 lbs	UCLA	USA
+Ronald Holland II Headshot
+Ronald
+
+Holland II
+
+DET	5	F	6-8	206 lbs	NBA G League Ignite	USA
+DaRon Holmes II Headshot
+DaRon
+
+Holmes II
+
+DEN	14	F	6-9	225 lbs	Dayton	USA
+Chet Holmgren Headshot
+Chet
+
+Holmgren
+
+OKC	7	C-F	7-1	208 lbs	Gonzaga	USA
+Al Horford Headshot
+Al
+
+Horford
+
+GSW	20	C-F	6-8	240 lbs	Florida	Dominican Republic
+Caleb Houstan Headshot
+Caleb
+
+Houstan
+
+ATL	33	G	6-8	205 lbs	Michigan	Canada
+Jett Howard Headshot
+Jett
+
+Howard
+
+ORL	13	G	6-8	215 lbs	Michigan	USA
+Kevin Huerter Headshot
+Kevin
+
+Huerter
+
+CHI	13	G-F	6-6	198 lbs	Maryland	USA
+Jay Huff Headshot
+Jay
+
+Huff
+
+IND	32	C	7-1	240 lbs	Virginia	USA
+Ariel Hukporti Headshot
+Ariel
+
+Hukporti
+
+NYK	55	C	7-0	246 lbs	Riesen Ludwigsburg	Germany
+De'Andre Hunter Headshot
+De'Andre
+
+Hunter
+
+CLE	12	F-G	6-7	221 lbs	Virginia	USA
+CJ Huntley Headshot
+CJ
+
+Huntley
+
+PHX	22	F	6-9	190 lbs	Appalachian State	USA
+Bones Hyland Headshot
+Bones
+
+Hyland
+
+MIN	8	G	6-2	169 lbs	Virginia Commonwealth	USA
+Oso Ighodaro Headshot
+Oso
+
+Ighodaro
+
+PHX	11	F	6-11	235 lbs	Marquette	USA
+Joe Ingles Headshot
+Joe
+
+Ingles
+
+MIN	7	F-G	6-8	220 lbs	Maccabi Tel Aviv	Australia
+Brandon Ingram Headshot
+Brandon
+
+Ingram
+
+TOR	3	F	6-8	190 lbs	Duke	USA
+Harrison Ingram Headshot
+Harrison
+
+Ingram
+
+SAS	55	F	6-5	230 lbs	North Carolina	USA
+Kyrie Irving Headshot
+Kyrie
+
+Irving
+
+DAL	11	G	6-2	195 lbs	Duke	Australia
+Jonathan Isaac Headshot
+Jonathan
+
+Isaac
+
+ORL	1	F	6-10	230 lbs	Florida State	USA
+Jaden Ivey Headshot
+Jaden
+
+Ivey
+
+DET	23	G	6-3	195 lbs	Purdue	USA
+GG Jackson Headshot
+GG
+
+Jackson
+
+MEM	45	F	6-9	210 lbs	South Carolina	USA
+Isaiah Jackson Headshot
+Isaiah
+
+Jackson
+
+IND	22	F	6-8	205 lbs	Kentucky	USA
+Quenton Jackson Headshot
+Quenton
+
+Jackson
+
+IND	29	G	6-4	173 lbs	Texas A&M	USA
+Andre Jackson Jr. Headshot
+Andre
+
+Jackson Jr.
+
+MIL	44	G	6-6	209 lbs	Connecticut	USA
+Jaren Jackson Jr. Headshot
+Jaren
+
+Jackson Jr.
+
+MEM	8	F-C	6-10	242 lbs	Michigan State	USA
+Trayce Jackson-Davis Headshot
+Trayce
+
+Jackson-Davis
+
+GSW	32	F	6-9	245 lbs	Indiana	USA
+Kasparas Jakučionis Headshot
+Kasparas
+
+Jakučionis
+
+MIA	25	G	6-5	200 lbs	Illinois-Urbana-Champaign	Lithuania
+Bronny James Headshot
+Bronny
+
+James
+
+LAL	9	G	6-2	210 lbs	Southern California	USA
+LeBron James Headshot
+LeBron
+
+James
+
+LAL	23	F	6-9	250 lbs	St. Vincent-St. Mary HS (OH)	USA
+Sion James Headshot
+Sion
+
+James
+
+CHA	4	G	6-5	220 lbs	Duke	USA
+Jaime Jaquez Jr. Headshot
+Jaime
+
+Jaquez Jr.
+
+MIA	11	G	6-6	225 lbs	UCLA	USA
+Trey Jemison III Headshot
+Trey
+
+Jemison III
+
+NYK	50	C	6-10	270 lbs	Alabama-Birmingham	USA
+Daniss Jenkins Headshot
+Daniss
+
+Jenkins
+
+DET	24	G	6-4	165 lbs	St. John's	USA
+Ty Jerome Headshot
+Ty
+
+Jerome
+
+MEM	2	G-F	6-5	195 lbs	Virginia	USA
+Isaiah Joe Headshot
+Isaiah
+
+Joe
+
+OKC	11	G	6-4	165 lbs	Arkansas	USA
+AJ Johnson Headshot
+AJ
+
+Johnson
+
+WAS	4	G	6-5	160 lbs	Illawarra	USA
+Cameron Johnson Headshot
+Cameron
+
+Johnson
+
+DEN	23	F	6-8	210 lbs	North Carolina	USA
+Jalen Johnson Headshot
+Jalen
+
+Johnson
+
+ATL	1	F	6-8	219 lbs	Duke	USA
+Keldon Johnson Headshot
+Keldon
+
+Johnson
+
+SAS	3	F-G	6-6	220 lbs	Kentucky	USA
+Keshad Johnson Headshot
+Keshad
+
+Johnson
+
+MIA	16	F	6-6	225 lbs	Arizona	USA
+Tre Johnson Headshot
+Tre
+
+Johnson
+
+WAS	12	G	6-5	190 lbs	Texas	USA
+Nikola Jokić Headshot
+Nikola
+
+Jokić
+
+DEN	15	C	6-11	284 lbs	Mega Basket	Serbia
+Colby Jones Headshot
+Colby
+
+Jones
+
+DET	00	G	6-6	207 lbs	Xavier	USA
+Curtis Jones Headshot
+Curtis
+
+Jones
+
+DEN	1	G	6-3	195 lbs	Iowa State	
+Herbert Jones Headshot
+Herbert
+
+Jones
+
+NOP	2	F	6-7	206 lbs	Alabama	USA
+Isaac Jones Headshot
+Isaac
+
+Jones
+
+SAC	3	F	6-8	245 lbs	Washington State	USA
+Kam Jones Headshot
+Kam
+
+Jones
+
+IND	7	G	6-4	200 lbs	Marquette	USA
+Spencer Jones Headshot
+Spencer
+
+Jones
+
+DEN	21	F	6-7	225 lbs	Stanford	USA
+Tre Jones Headshot
+Tre
+
+Jones
+
+CHI	30	G	6-1	185 lbs	Duke	USA
+Tyus Jones Headshot
+Tyus
+
+Jones
+
+ORL	2	G	6-0	196 lbs	Duke	USA
+David Jones Garcia Headshot
+David
+
+Jones Garcia
+
+SAS	25	F	6-4	210 lbs	Memphis	Dominican Republic
+Derrick Jones Jr. Headshot
+Derrick
+
+Jones Jr.
+
+LAC	5	F	6-6	210 lbs	UNLV	USA
+DeAndre Jordan Headshot
+DeAndre
+
+Jordan
+
+NOP	6	C	6-11	265 lbs	Texas A&M	USA
+Nikola Jović Headshot
+Nikola
+
+Jović
+
+MIA	5	F	6-10	205 lbs	Mega Basket	Serbia
+Johnny Juzang Headshot
+Johnny
+
+Juzang
+
+MIN	9	G	6-7	226 lbs	UCLA	USA
+Ryan Kalkbrenner Headshot
+Ryan
+
+Kalkbrenner
+
+CHA	11	C	7-1	256 lbs	Creighton	USA
+Miles Kelly Headshot
+Miles
+
+Kelly
+
+DAL	14	G	6-4	190 lbs	Auburn	USA
+Luke Kennard Headshot
+Luke
+
+Kennard
+
+ATL	3	G	6-5	206 lbs	Duke	USA
+Walker Kessler Headshot
+Walker
+
+Kessler
+
+UTA	24	C	7-2	245 lbs	Auburn	USA
+Corey Kispert Headshot
+Corey
+
+Kispert
+
+WAS	24	F	6-6	224 lbs	Gonzaga	USA
+Maxi Kleber Headshot
+Maxi
+
+Kleber
+
+LAL	14	F	6-10	240 lbs	Bayern Munich	Germany
+Bobi Klintman Headshot
+Bobi
+
+Klintman
+
+DET	34	F	6-9	225 lbs	Wake Forest	Sweden
+Dalton Knecht Headshot
+Dalton
+
+Knecht
+
+LAL	4	F	6-6	215 lbs	Tennessee	USA
+Kon Knueppel Headshot
+Kon
+
+Knueppel
+
+CHA	7	G-F	6-6	215 lbs	Duke	USA
+Tyler Kolek Headshot
+Tyler
+
+Kolek
+
+NYK	13	G	6-2	195 lbs	Marquette	USA
+Christian Koloko Headshot
+Christian
+
+Koloko
+
+LAL	10	C	6-11	225 lbs	Arizona	Cameroon
+John Konchar Headshot
+John
+
+Konchar
+
+MEM	46	G	6-5	210 lbs	Indiana-Purdue Fort Wayne	USA
+Luke Kornet Headshot
+Luke
+
+Kornet
+
+SAS	7	C-F	7-1	250 lbs	Vanderbilt	USA
+Vít Krejčí Headshot
+Vít
+
+Krejčí
+
+ATL	27	G	6-8	195 lbs	Zaragoza	Czech Republic
+Jonathan Kuminga Headshot
+Jonathan
+
+Kuminga
+
+GSW	1	F	6-7	225 lbs	NBA G League Ignite	DRC
+Kyle Kuzma Headshot
+Kyle
+
+Kuzma
+
+MIL	18	F	6-8	221 lbs	Utah	USA
+Jock Landale Headshot
+Jock
+
+Landale
+
+MEM	31	C	6-11	255 lbs	St. Mary's	Australia
+Chaz Lanier Headshot
+Chaz
+
+Lanier
+
+DET	20	G	6-3	206 lbs	Tennessee	USA
+Jake LaRavia Headshot
+Jake
+
+LaRavia
+
+LAL	12	F	6-7	235 lbs	Wake Forest	USA
+Pelle Larsson Headshot
+Pelle
+
+Larsson
+
+MIA	9	G	6-5	215 lbs	Arizona	Sweden
+Zach LaVine Headshot
+Zach
+
+LaVine
+
+SAC	8	G	6-5	200 lbs	UCLA	USA
+A.J. Lawson Headshot
+A.J.
+
+Lawson
+
+TOR	0	G	6-6	179 lbs	South Carolina	Canada
+Kawhi Leonard Headshot
+Kawhi
+
+Leonard
+
+LAC	2	F	6-6	225 lbs	San Diego State	USA
+Caris LeVert Headshot
+Caris
+
+LeVert
+
+DET	8	G	6-7	205 lbs	Michigan	USA
+E.J. Liddell Headshot
+E.J.
+
+Liddell
+
+BKN	9	F	6-6	240 lbs	Ohio State	USA
+Damian Lillard Headshot
+Damian
+
+Lillard
+
+POR	0	G	6-2	200 lbs	Weber State	USA
+Dereck Lively II Headshot
+Dereck
+
+Lively II
+
+DAL	2	C	7-1	230 lbs	Duke	USA
+Isaiah Livers Headshot
+Isaiah
+
+Livers
+
+PHX	18	F	6-6	232 lbs	Michigan	USA
+Chris Livingston Headshot
+Chris
+
+Livingston
+
+CLE	24	F	6-6	220 lbs	Kentucky	USA
+Kevon Looney Headshot
+Kevon
+
+Looney
+
+NOP	55	F	6-9	222 lbs	UCLA	USA
+Brook Lopez Headshot
+Brook
+
+Lopez
+
+LAC	11	C	7-1	282 lbs	Stanford	USA
+Caleb Love Headshot
+Caleb
+
+Love
+
+POR	2	G	6-3	212 lbs	Arizona	USA
+Kevin Love Headshot
+Kevin
+
+Love
+
+UTA	42	F-C	6-10	251 lbs	UCLA	USA
+Kyle Lowry Headshot
+Kyle
+
+Lowry
+
+PHI	7	G	6-0	196 lbs	Villanova	USA
+Khaman Maluach Headshot
+Khaman
+
+Maluach
+
+PHX	10	C	7-1	250 lbs	Duke	South Sudan
+Sandro Mamukelashvili Headshot
+Sandro
+
+Mamukelashvili
+
+TOR	54	F-C	6-9	240 lbs	Seton Hall	Georgia
+Terance Mann Headshot
+Terance
+
+Mann
+
+BKN	14	G-F	6-6	215 lbs	Florida State	USA
+Tre Mann Headshot
+Tre
+
+Mann
+
+CHA	23	G	6-4	178 lbs	Florida	USA
+Chris Mañon Headshot
+Chris
+
+Mañon
+
+LAL	30	G	6-4	209 lbs	Vanderbilt	USA
+Lauri Markkanen Headshot
+Lauri
+
+Markkanen
+
+UTA	23	F-C	7-1	240 lbs	Arizona	Finland
+Naji Marshall Headshot
+Naji
+
+Marshall
+
+DAL	13	F	6-6	220 lbs	Xavier	USA
+Alijah Martin Headshot
+Alijah
+
+Martin
+
+TOR	55	G	6-2	210 lbs	Florida	USA
+Caleb Martin Headshot
+Caleb
+
+Martin
+
+DAL	16	F	6-5	205 lbs	Nevada	USA
+Tyrese Martin Headshot
+Tyrese
+
+Martin
+
+BKN	13	F	6-6	215 lbs	Connecticut	USA
+Bennedict Mathurin Headshot
+Bennedict
+
+Mathurin
+
+IND	00	G-F	6-5	210 lbs	Arizona	Canada
+Karlo Matković Headshot
+Karlo
+
+Matković
+
+NOP	17	F-C	6-10	231 lbs	Mega Basket	Bosnia and Herzegovina
+Tyrese Maxey Headshot
+Tyrese
+
+Maxey
+
+PHI	0	G	6-2	200 lbs	Kentucky	USA
+Miles McBride Headshot
+Miles
+
+McBride
+
+NYK	2	G	6-2	195 lbs	West Virginia	USA
+Jared McCain Headshot
+Jared
+
+McCain
+
+PHI	20	G	6-3	195 lbs	Duke	USA
+Mac McClung Headshot
+Mac
+
+McClung
+
+IND	3	G	6-2	185 lbs	Texas Tech	USA
+CJ McCollum Headshot
+CJ
+
+McCollum
+
+WAS	3	G	6-3	190 lbs	Lehigh	USA
+T.J. McConnell Headshot
+T.J.
+
+McConnell
+
+IND	9	G	6-1	190 lbs	Arizona	USA
+Kevin McCullar Jr. Headshot
+Kevin
+
+McCullar Jr.
+
+NYK	9	G	6-6	210 lbs	Kansas	USA
+Jaden McDaniels Headshot
+Jaden
+
+McDaniels
+
+MIN	3	F	6-9	185 lbs	Washington	USA
+Doug McDermott Headshot
+Doug
+
+McDermott
+
+SAC	7	F	6-7	225 lbs	Creighton	USA
+Bryce McGowens Headshot
+Bryce
+
+McGowens
+
+NOP	11	G	6-6	190 lbs	Nebraska	USA
+Jordan McLaughlin Headshot
+Jordan
+
+McLaughlin
+
+SAS	0	G	5-11	185 lbs	Southern California	USA
+Liam McNeeley Headshot
+Liam
+
+McNeeley
+
+CHA	33	F	6-7	210 lbs	Connecticut	USA
+De'Anthony Melton Headshot
+De'Anthony
+
+Melton
+
+GSW	8	G	6-2	200 lbs	Southern California	USA
+Sam Merrill Headshot
+Sam
+
+Merrill
+
+CLE	5	G	6-4	205 lbs	Utah State	USA
+Khris Middleton Headshot
+Khris
+
+Middleton
+
+WAS	22	F	6-7	222 lbs	Texas A&M	USA
+Brandon Miller Headshot
+Brandon
+
+Miller
+
+CHA	24	F	6-7	200 lbs	Alabama	USA
+Emanuel Miller Headshot
+Emanuel
+
+Miller
+
+CHI	2	F	6-5	215 lbs	TCU	Canada
+Jordan Miller Headshot
+Jordan
+
+Miller
+
+LAC	22	G	6-5	194 lbs	Miami	USA
+Leonard Miller Headshot
+Leonard
+
+Miller
+
+MIN	33	F	6-10	220 lbs	NBA G League Ignite	Canada
+Riley Minix Headshot
+Riley
+
+Minix
+
+SAS	27	F	6-7	230 lbs	Morehead State	USA
+Josh Minott Headshot
+Josh
+
+Minott
+
+BOS	8	F	6-8	205 lbs	Memphis	USA
+Yves Missi Headshot
+Yves
+
+Missi
+
+NOP	21	C	6-11	235 lbs	Baylor	Cameroon
+Ajay Mitchell Headshot
+Ajay
+
+Mitchell
+
+OKC	25	G	6-4	190 lbs	California-Santa Barbara	Belgium
+Davion Mitchell Headshot
+Davion
+
+Mitchell
+
+MIA	45	G	6-0	202 lbs	Baylor	USA
+Donovan Mitchell Headshot
+Donovan
+
+Mitchell
+
+CLE	45	G	6-2	215 lbs	Louisville	USA
+Evan Mobley Headshot
+Evan
+
+Mobley
+
+CLE	4	C	6-11	215 lbs	Southern California	USA
+Jonathan Mogbo Headshot
+Jonathan
+
+Mogbo
+
+TOR	2	F	6-9	225 lbs	San Francisco	USA
+Malik Monk Headshot
+Malik
+
+Monk
+
+SAC	0	G	6-3	200 lbs	Kentucky	USA
+Moses Moody Headshot
+Moses
+
+Moody
+
+GSW	4	G	6-5	211 lbs	Arkansas	USA
+Ja Morant Headshot
+Ja
+
+Morant
+
+MEM	12	G	6-2	174 lbs	Murray State	USA
+Trey Murphy III Headshot
+Trey
+
+Murphy III
+
+NOP	25	F	6-8	206 lbs	Virginia	USA
+Dejounte Murray Headshot
+Dejounte
+
+Murray
+
+NOP	5	G	6-4	180 lbs	Washington	USA
+Jamal Murray Headshot
+Jamal
+
+Murray
+
+DEN	27	G	6-4	215 lbs	Kentucky	Canada
+Keegan Murray Headshot
+Keegan
+
+Murray
+
+SAC	13	F	6-8	225 lbs	Iowa	USA
+Kris Murray Headshot
+Kris
+
+Murray
+
+POR	24	F	6-8	218 lbs	Iowa	USA
+Collin Murray-Boyles Headshot
+Collin
+
+Murray-Boyles
+
+TOR	12	F	6-7	245 lbs	South Carolina	USA
+Svi Mykhailiuk Headshot
+Svi
+
+Mykhailiuk
+
+UTA	10	G-F	6-7	205 lbs	Kansas	Ukraine
+Pete Nance Headshot
+Pete
+
+Nance
+
+MIL	35	F	6-9	225 lbs	Northwestern	USA
+Larry Nance Jr. Headshot
+Larry
+
+Nance Jr.
+
+CLE	22	F-C	6-6	245 lbs	Wyoming	USA
+Eli John Ndiaye Headshot
+Eli John
+
+Ndiaye
+
+ATL	30	F	6-8	209 lbs	Real Madrid	Senegal
+Andrew Nembhard Headshot
+Andrew
+
+Nembhard
+
+IND	2	G-F	6-4	191 lbs	Gonzaga	Canada
+Ryan Nembhard Headshot
+Ryan
+
+Nembhard
+
+DAL	9	G	5-11	180 lbs	Gonzaga	Canada
+Aaron Nesmith Headshot
+Aaron
+
+Nesmith
+
+IND	23	G-F	6-5	215 lbs	Vanderbilt	USA
+Asa Newell Headshot
+Asa
+
+Newell
+
+ATL	14	F	6-10	220 lbs	Georgia	USA
+Georges Niang Headshot
+Georges
+
+Niang
+
+UTA	31	F	6-6	230 lbs	Iowa State	USA
+Yanic Konan Niederhäuser Headshot
+Yanic Konan
+
+Niederhäuser
+
+LAC	14	C	6-11	242 lbs	Penn State	Switzerland
+Zeke Nnaji Headshot
+Zeke
+
+Nnaji
+
+DEN	22	F-C	6-10	240 lbs	Arizona	USA
+Jusuf Nurkić Headshot
+Jusuf
+
+Nurkić
+
+UTA	30	C	6-11	290 lbs	Cedevita	Bosnia and Herzegovina
+Josh Okogie Headshot
+Josh
+
+Okogie
+
+HOU	20	G	6-4	213 lbs	Georgia Tech	Nigeria
+Onyeka Okongwu Headshot
+Onyeka
+
+Okongwu
+
+ATL	17	F-C	6-10	240 lbs	Southern California	USA
+Isaac Okoro Headshot
+Isaac
+
+Okoro
+
+CHI	35	F-G	6-4	225 lbs	Auburn	USA
+Lachlan Olbrich Headshot
+Lachlan
+
+Olbrich
+
+CHI	47	C	6-8	236 lbs	Illawarra	Australia
+Kelly Olynyk Headshot
+Kelly
+
+Olynyk
+
+SAS	8	F-C	7-0	240 lbs	Gonzaga	Canada
+Royce O'Neale Headshot
+Royce
+
+O'Neale
+
+PHX	00	F	6-6	226 lbs	Baylor	USA
+Kelly Oubre Jr. Headshot
+Kelly
+
+Oubre Jr.
+
+PHI	9	F-G	6-8	203 lbs	Kansas	USA
+Chris Paul Headshot
+Chris
+
+Paul
+
+LAC	3	G	6-0	175 lbs	Wake Forest	USA
+Gary Payton II Headshot
+Gary
+
+Payton II
+
+GSW	0	G	6-2	195 lbs	Oregon State	USA
+Micah Peavy Headshot
+Micah
+
+Peavy
+
+NOP	14	G-F	6-7	215 lbs	Georgetown	USA
+Noah Penda Headshot
+Noah
+
+Penda
+
+ORL	93	G-F	6-7	215 lbs	-	France
+Taelon Peter Headshot
+Taelon
+
+Peter
+
+IND	4	G	6-3	185 lbs	Liberty	USA
+Drew Peterson Headshot
+Drew
+
+Peterson
+
+CHA	9	F	6-8	205 lbs	Southern California	USA
+Julian Phillips Headshot
+Julian
+
+Phillips
+
+CHI	15	F	6-6	198 lbs	Tennessee	USA
+Jalen Pickett Headshot
+Jalen
+
+Pickett
+
+DEN	24	G	6-2	202 lbs	Penn State	USA
+Scotty Pippen Jr. Headshot
+Scotty
+
+Pippen Jr.
+
+MEM	1	G	6-2	170 lbs	Vanderbilt	USA
+Daeqwon Plowden Headshot
+Daeqwon
+
+Plowden
+
+SAC	29	G-F	6-4	216 lbs	Bowling Green	USA
+Mason Plumlee Headshot
+Mason
+
+Plumlee
+
+CHA	22	F-C	7-0	254 lbs	Duke	USA
+Brandin Podziemski Headshot
+Brandin
+
+Podziemski
+
+GSW	2	G	6-4	205 lbs	Santa Clara	USA
+Jakob Poeltl Headshot
+Jakob
+
+Poeltl
+
+TOR	19	C	7-0	253 lbs	Utah	Austria
+Jordan Poole Headshot
+Jordan
+
+Poole
+
+NOP	3	G	6-4	194 lbs	Michigan	USA
+Craig Porter Jr. Headshot
+Craig
+
+Porter Jr.
+
+CLE	9	G	6-1	180 lbs	Wichita State	USA
+Kevin Porter Jr. Headshot
+Kevin
+
+Porter Jr.
+
+MIL	7	G-F	6-5	203 lbs	Southern California	USA
+Michael Porter Jr. Headshot
+Michael
+
+Porter Jr.
+
+BKN	17	F	6-10	218 lbs	Missouri	USA
+Bobby Portis Headshot
+Bobby
+
+Portis
+
+MIL	9	F	6-9	250 lbs	Arkansas	USA
+Kristaps Porziņģis Headshot
+Kristaps
+
+Porziņģis
+
+ATL	8	F-C	7-2	240 lbs	Cajasol Sevilla	Latvia
+Quinten Post Headshot
+Quinten
+
+Post
+
+GSW	21	C	7-0	238 lbs	Boston College	Netherlands
+Drake Powell Headshot
+Drake
+
+Powell
+
+BKN	4	G-F	6-5	195 lbs	North Carolina	USA
+Dwight Powell Headshot
+Dwight
+
+Powell
+
+DAL	7	F-C	6-10	240 lbs	Stanford	Canada
+Norman Powell Headshot
+Norman
+
+Powell
+
+MIA	24	G	6-3	215 lbs	UCLA	USA
+Taurean Prince Headshot
+Taurean
+
+Prince
+
+MIL	12	F	6-6	218 lbs	Baylor	USA
+Payton Pritchard Headshot
+Payton
+
+Pritchard
+
+BOS	11	G	6-1	195 lbs	Oregon	USA
+Tyrese Proctor Headshot
+Tyrese
+
+Proctor
+
+CLE	24	G	6-4	185 lbs	Duke	Australia
+Olivier-Maxence Prosper Headshot
+Olivier-Maxence
+
+Prosper
+
+MEM	8	F	6-7	230 lbs	Marquette	Canada
+Derik Queen Headshot
+Derik
+
+Queen
+
+NOP	22	C	6-9	250 lbs	Maryland	USA
+Neemias Queta Headshot
+Neemias
+
+Queta
+
+BOS	88	C	7-0	248 lbs	Utah State	Portugal
+Immanuel Quickley Headshot
+Immanuel
+
+Quickley
+
+TOR	5	G	6-2	190 lbs	Kentucky	USA
+Julius Randle Headshot
+Julius
+
+Randle
+
+MIN	30	F-C	6-9	250 lbs	Kentucky	USA
+Maxime Raynaud Headshot
+Maxime
+
+Raynaud
+
+SAC	42	C	7-1	250 lbs	Stanford	France
+Duop Reath Headshot
+Duop
+
+Reath
+
+POR	26	C	6-9	245 lbs	Louisiana State	South Sudan
+Austin Reaves Headshot
+Austin
+
+Reaves
+
+LAL	15	G	6-5	197 lbs	Oklahoma	USA
+Paul Reed Headshot
+Paul
+
+Reed
+
+DET	7	F	6-9	210 lbs	DePaul	USA
+Antonio Reeves Headshot
+Antonio
+
+Reeves
+
+CHA	12	G	6-5	205 lbs	Kentucky	USA
+Naz Reid Headshot
+Naz
+
+Reid
+
+MIN	11	C-F	6-9	264 lbs	Louisiana State	USA
+Will Richard Headshot
+Will
+
+Richard
+
+GSW	3	G	6-3	206 lbs	Florida	USA
+Nick Richards Headshot
+Nick
+
+Richards
+
+PHX	2	C	6-11	245 lbs	Kentucky	Jamaica
+Jase Richardson Headshot
+Jase
+
+Richardson
+
+ORL	11	G	6-1	180 lbs	Michigan State	USA
+Will Riley Headshot
+Will
+
+Riley
+
+WAS	27	F	6-9	180 lbs	Illinois-Urbana-Champaign	USA
+Zaccharie Risacher Headshot
+Zaccharie
+
+Risacher
+
+ATL	10	F	6-8	200 lbs	JL Bourg-en-Bresse	France
+Duncan Robinson Headshot
+Duncan
+
+Robinson
+
+DET	55	F	6-7	215 lbs	Michigan	USA
+Mitchell Robinson Headshot
+Mitchell
+
+Robinson
+
+NYK	23	C-F	7-0	240 lbs	Western Kentucky	USA
+Orlando Robinson Headshot
+Orlando
+
+Robinson
+
+ORL	21	C	6-10	235 lbs	Fresno State	USA
+Jeremiah Robinson-Earl Headshot
+Jeremiah
+
+Robinson-Earl
+
+IND	50	F	6-9	240 lbs	Villanova	USA
+Ryan Rollins Headshot
+Ryan
+
+Rollins
+
+MIL	13	G	6-3	180 lbs	Toledo	USA
+Jackson Rowe Headshot
+Jackson
+
+Rowe
+
+GSW	44	F	6-6	210 lbs	California State-Fullerton	Canada
+Terry Rozier Headshot
+Terry
+
+Rozier
+
+MIA	2	G	6-1	190 lbs	Louisville	USA
+Rayan Rupert Headshot
+Rayan
+
+Rupert
+
+POR	21	G-F	6-7	205 lbs	New Zealand Breakers	France
+D'Angelo Russell Headshot
+D'Angelo
+
+Russell
+
+DAL	5	G	6-3	193 lbs	Ohio State	USA
+Domantas Sabonis Headshot
+Domantas
+
+Sabonis
+
+SAC	11	F-C	6-10	240 lbs	Gonzaga	Lithuania
+Tidjane Salaün Headshot
+Tidjane
+
+Salaün
+
+CHA	31	F	6-10	207 lbs	Cholet	France
+Hunter Sallis Headshot
+Hunter
+
+Sallis
+
+PHI	45	G	6-4	185 lbs	Wake Forest	USA
+Kobe Sanders Headshot
+Kobe
+
+Sanders
+
+LAC	4	G	6-8	207 lbs	Nevada	USA
+Gui Santos Headshot
+Gui
+
+Santos
+
+GSW	15	F	6-7	185 lbs	Minas	Brazil
+Ben Saraf Headshot
+Ben
+
+Saraf
+
+BKN	77	G	6-6	200 lbs	Ratiopharm Ulm	Israel
+Dario Šarić Headshot
+Dario
+
+Šarić
+
+SAC	9	F-C	6-10	225 lbs	Anadolu Efes	Croatia
+Alex Sarr Headshot
+Alex
+
+Sarr
+
+WAS	20	C	7-0	205 lbs	Washington Wizards	France
+Marcus Sasser Headshot
+Marcus
+
+Sasser
+
+DET	25	G	6-1	195 lbs	Houston	USA
+Baylor Scheierman Headshot
+Baylor
+
+Scheierman
+
+BOS	55	G	6-6	205 lbs	Creighton	USA
+Dennis Schröder Headshot
+Dennis
+
+Schröder
+
+SAC	17	G	6-1	175 lbs	Braunschweig	Germany
+Mark Sears Headshot
+Mark
+
+Sears
+
+MIL	19	G	6-0	185 lbs	Alabama	USA
+Alperen Sengun Headshot
+Alperen
+
+Sengun
+
+HOU	28	C	6-11	243 lbs	Besiktas	Turkey
+Brice Sensabaugh Headshot
+Brice
+
+Sensabaugh
+
+UTA	28	F	6-6	235 lbs	Ohio State	USA
+Collin Sexton Headshot
+Collin
+
+Sexton
+
+CHA	8	G	6-3	190 lbs	Alabama	USA
+Landry Shamet Headshot
+Landry
+
+Shamet
+
+NYK	44	G	6-5	190 lbs	Wichita State	USA
+Terrence Shannon Jr. Headshot
+Terrence
+
+Shannon Jr.
+
+MIN	1	G-F	6-6	215 lbs	Illinois	USA
+Day'Ron Sharpe Headshot
+Day'Ron
+
+Sharpe
+
+BKN	20	C	6-10	265 lbs	North Carolina	USA
+Shaedon Sharpe Headshot
+Shaedon
+
+Sharpe
+
+POR	17	G	6-5	210 lbs	Kentucky	Canada
+Jamal Shead Headshot
+Jamal
+
+Shead
+
+TOR	23	G	6-1	200 lbs	Houston	USA
+Ben Sheppard Headshot
+Ben
+
+Sheppard
+
+IND	26	G	6-6	190 lbs	Belmont	USA
+Reed Sheppard Headshot
+Reed
+
+Sheppard
+
+HOU	15	G	6-2	185 lbs	Kentucky	USA
+Max Shulga Headshot
+Max
+
+Shulga
+
+BOS	29	G	6-4	210 lbs	Virginia Commonwealth	Ukraine
+Pascal Siakam Headshot
+Pascal
+
+Siakam
+
+IND	43	F	6-8	245 lbs	New Mexico State	Cameroon
+Anfernee Simons Headshot
+Anfernee
+
+Simons
+
+BOS	4	G	6-3	200 lbs	Edgewater HS (FL)	USA
+KJ Simpson Headshot
+KJ
+
+Simpson
+
+CHA	25	G	6-2	189 lbs	Colorado	USA
+Jericho Sims Headshot
+Jericho
+
+Sims
+
+MIL	00	C	6-10	250 lbs	Texas	USA
+Javon Small Headshot
+Javon
+
+Small
+
+MEM	10	G	6-1	190 lbs	West Virginia	USA
+Marcus Smart Headshot
+Marcus
+
+Smart
+
+LAL	36	G	6-3	220 lbs	Oklahoma State	USA
+Dru Smith Headshot
+Dru
+
+Smith
+
+MIA	12	G	6-2	203 lbs	Missouri	USA
+Jalen Smith Headshot
+Jalen
+
+Smith
+
+CHI	25	F-C	6-8	215 lbs	Maryland	USA
+Tolu Smith Headshot
+Tolu
+
+Smith
+
+DET	35	F	6-11		Mississippi State	USA
+Jabari Smith Jr. Headshot
+Jabari
+
+Smith Jr.
+
+HOU	10	F	6-11	220 lbs	Auburn	USA
+Nick Smith Jr. Headshot
+Nick
+
+Smith Jr.
+
+LAL	20	G	6-2	185 lbs	Arkansas	USA
+Jeremy Sochan Headshot
+Jeremy
+
+Sochan
+
+SAS	10	F	6-8	230 lbs	Baylor	Poland
+Thomas Sorber Headshot
+Thomas
+
+Sorber
+
+OKC	12	C	6-9	250 lbs	Georgetown	USA
+Cam Spencer Headshot
+Cam
+
+Spencer
+
+MEM	24	G	6-3	205 lbs	Connecticut	USA
+Pat Spencer Headshot
+Pat
+
+Spencer
+
+GSW	61	G	6-2	205 lbs	Northwestern	USA
+Isaiah Stevens Headshot
+Isaiah
+
+Stevens
+
+SAC		G	5-11	185 lbs	Colorado State	USA
+Isaiah Stewart Headshot
+Isaiah
+
+Stewart
+
+DET	28	F-C	6-8	250 lbs	Washington	USA
+Julian Strawther Headshot
+Julian
+
+Strawther
+
+DEN	3	G	6-6	205 lbs	Gonzaga	USA
+Max Strus Headshot
+Max
+
+Strus
+
+CLE	1	G-F	6-5	215 lbs	DePaul	USA
+Jalen Suggs Headshot
+Jalen
+
+Suggs
+
+ORL	4	G	6-5	205 lbs	Gonzaga	USA
+Jae'Sean Tate Headshot
+Jae'Sean
+
+Tate
+
+HOU	8	F	6-4	230 lbs	Ohio State	USA
+Jayson Tatum Headshot
+Jayson
+
+Tatum
+
+BOS	0	F-G	6-8	210 lbs	Duke	USA
+Jahmyl Telfort Headshot
+Jahmyl
+
+Telfort
+
+LAC	19	G	6-7		-	Canada
+Garrett Temple Headshot
+Garrett
+
+Temple
+
+TOR	17	G-F	6-5	195 lbs	Louisiana State	USA
+Dalen Terry Headshot
+Dalen
+
+Terry
+
+CHI	7	F	6-6	195 lbs	Arizona	USA
+Adou Thiero Headshot
+Adou
+
+Thiero
+
+LAL	1	G	6-7	220 lbs	Arkansas	USA
+Cam Thomas Headshot
+Cam
+
+Thomas
+
+BKN	24	G	6-3	210 lbs	Louisiana State	Japan
+Amen Thompson Headshot
+Amen
+
+Thompson
+
+HOU	1	G-F	6-7	200 lbs	Overtime Elite	USA
+Ausar Thompson Headshot
+Ausar
+
+Thompson
+
+DET	9	G-F	6-7	205 lbs	Overtime Elite	USA
+Klay Thompson Headshot
+Klay
+
+Thompson
+
+DAL	31	G	6-5	220 lbs	Washington State	USA
+Matisse Thybulle Headshot
+Matisse
+
+Thybulle
+
+POR	4	G-F	6-5	202 lbs	Washington	USA
+Xavier Tillman Headshot
+Xavier
+
+Tillman
+
+BOS	26	F	6-8	245 lbs	Michigan State	USA
+Nae'Qwan Tomlin Headshot
+Nae'Qwan
+
+Tomlin
+
+CLE	30	F	6-8	210 lbs	Memphis	USA
+John Tonje Headshot
+John
+
+Tonje
+
+UTA	17	G	6-4	218 lbs	Wisconsin	USA
+Alex Toohey Headshot
+Alex
+
+Toohey
+
+GSW	22	F	6-8	223 lbs	Sydney Kings	Australia
+Nikola Topić Headshot
+Nikola
+
+Topić
+
+OKC	44	G	6-6	200 lbs	Crvena zvezda	Serbia
+Jacob Toppin Headshot
+Jacob
+
+Toppin
+
+ATL	0	F	6-9	200 lbs	Kentucky	USA
+Obi Toppin Headshot
+Obi
+
+Toppin
+
+IND	1	F	6-9	220 lbs	Dayton	USA
+Karl-Anthony Towns Headshot
+Karl-Anthony
+
+Towns
+
+NYK	32	C-F	7-0	248 lbs	Kentucky	USA
+Nolan Traore Headshot
+Nolan
+
+Traore
+
+BKN	88	G	6-3	185 lbs	Saint-Quentin	France
+Luke Travers Headshot
+Luke
+
+Travers
+
+CLE	33	F	6-6	207 lbs	Rockingham Flames (Aus.)	Australia
+Gary Trent Jr. Headshot
+Gary
+
+Trent Jr.
+
+MIL	5	G	6-5	204 lbs	Duke	USA
+Oscar Tshiebwe Headshot
+Oscar
+
+Tshiebwe
+
+UTA	34	F-C	6-8	255 lbs	Kentucky	DRC
+Myles Turner Headshot
+Myles
+
+Turner
+
+MIL	3	C-F	6-11	250 lbs	Texas	USA
+Hunter Tyson Headshot
+Hunter
+
+Tyson
+
+DEN	5	F	6-8	215 lbs	Clemson	USA
+Jaylon Tyson Headshot
+Jaylon
+
+Tyson
+
+CLE	20	G-F	6-6	215 lbs	California	USA
+Jonas Valančiūnas Headshot
+Jonas
+
+Valančiūnas
+
+DEN	17	C	6-11	265 lbs	Lietuvos rytas Vilnius	Lithuania
+Jarred Vanderbilt Headshot
+Jarred
+
+Vanderbilt
+
+LAL	2	F	6-8	214 lbs	Kentucky	USA
+Fred VanVleet Headshot
+Fred
+
+VanVleet
+
+HOU	5	G	6-0	197 lbs	Wichita State	USA
+Devin Vassell Headshot
+Devin
+
+Vassell
+
+SAS	24	G-F	6-5	200 lbs	Florida State	USA
+Gabe Vincent Headshot
+Gabe
+
+Vincent
+
+LAL	7	G	6-2	200 lbs	California-Santa Barbara	USA
+Nikola Vučević Headshot
+Nikola
+
+Vučević
+
+CHI	9	C	6-9	260 lbs	Southern California	Montenegro
+Tristan Vukcevic Headshot
+Tristan
+
+Vukcevic
+
+WAS	00	F	7-0	220 lbs	Real Madrid	Italy
+Dean Wade Headshot
+Dean
+
+Wade
+
+CLE	32	F-C	6-9	228 lbs	Kansas State	USA
+Franz Wagner Headshot
+Franz
+
+Wagner
+
+ORL	22	F	6-10	220 lbs	Michigan	Germany
+Moritz Wagner Headshot
+Moritz
+
+Wagner
+
+ORL	21	F-C	6-11	245 lbs	Michigan	Germany
+Jabari Walker Headshot
+Jabari
+
+Walker
+
+PHI	34	F	6-7	237 lbs	Colorado	USA
+Jarace Walker Headshot
+Jarace
+
+Walker
+
+IND	5	F	6-7	235 lbs	Houston	USA
+Cason Wallace Headshot
+Cason
+
+Wallace
+
+OKC	22	G	6-3	195 lbs	Kentucky	USA
+Keaton Wallace Headshot
+Keaton
+
+Wallace
+
+ATL	2	G	6-3	185 lbs	Texas-San Antonio	USA
+Jordan Walsh Headshot
+Jordan
+
+Walsh
+
+BOS	27	G	6-6	205 lbs	Arkansas	USA
+Ja'Kobe Walter Headshot
+Ja'Kobe
+
+Walter
+
+TOR	14	G	6-4	180 lbs	Baylor	USA
+Kel'el Ware Headshot
+Kel'el
+
+Ware
+
+MIA	7	C	7-0	230 lbs	Indiana	USA
+P.J. Washington Headshot
+P.J.
+
+Washington
+
+DAL	25	F	6-7	230 lbs	Kentucky	USA
+Lindy Waters III Headshot
+Lindy
+
+Waters III
+
+SAS	43	F	6-5	210 lbs	Oklahoma State	USA
+Trendon Watford Headshot
+Trendon
+
+Watford
+
+PHI	12	G-F	6-8	237 lbs	Louisiana State	USA
+Jamir Watkins Headshot
+Jamir
+
+Watkins
+
+WAS	5	F	6-6	210 lbs	Florida State	USA
+Peyton Watson Headshot
+Peyton
+
+Watson
+
+DEN	8	G	6-8	200 lbs	UCLA	USA
+Jaylen Wells Headshot
+Jaylen
+
+Wells
+
+MEM	0	F	6-7		Washington State	USA
+Victor Wembanyama Headshot
+Victor
+
+Wembanyama
+
+SAS	1	F-C	7-4	235 lbs	Metropolitans 92	France
+Blake Wesley Headshot
+Blake
+
+Wesley
+
+POR	1	G	6-4	190 lbs	Notre Dame	USA
+Russell Westbrook Headshot
+Russell
+
+Westbrook
+
+SAC	18	G	6-4	200 lbs	UCLA	USA
+Coby White Headshot
+Coby
+
+White
+
+CHI	0	G	6-4	195 lbs	North Carolina	USA
+Derrick White Headshot
+Derrick
+
+White
+
+BOS	9	G	6-4	190 lbs	Colorado	USA
+Cam Whitmore Headshot
+Cam
+
+Whitmore
+
+WAS	1	F	6-6	230 lbs	Villanova	USA
+Aaron Wiggins Headshot
+Aaron
+
+Wiggins
+
+OKC	21	G	6-5	190 lbs	Maryland	USA
+Andrew Wiggins Headshot
+Andrew
+
+Wiggins
+
+MIA	22	F	6-6	197 lbs	Kansas	Canada
+Amari Williams Headshot
+Amari
+
+Williams
+
+BOS	77	F-C	6-11	250 lbs	Kentucky	United Kingdom
+Brandon Williams Headshot
+Brandon
+
+Williams
+
+DAL	10	G	6-1	190 lbs	Arizona	USA
+Cody Williams Headshot
+Cody
+
+Williams
+
+UTA	5	F	6-8	190 lbs	Colorado	USA
+Grant Williams Headshot
+Grant
+
+Williams
+
+CHA	2	F	6-7	236 lbs	Tennessee	USA
+Jalen Williams Headshot
+Jalen
+
+Williams
+
+OKC	8	G-F	6-5	211 lbs	Santa Clara	USA
+Jaylin Williams Headshot
+Jaylin
+
+Williams
+
+OKC	6	F	6-9	240 lbs	Arkansas	USA
+Kenrich Williams Headshot
+Kenrich
+
+Williams
+
+OKC	34	G-F	6-7	210 lbs	TCU	USA
+Mark Williams Headshot
+Mark
+
+Williams
+
+PHX	15	C	7-1	240 lbs	Duke	USA
+Patrick Williams Headshot
+Patrick
+
+Williams
+
+CHI	44	F	6-6	215 lbs	Florida State	USA
+Ziaire Williams Headshot
+Ziaire
+
+Williams
+
+BKN	1	F	6-9	185 lbs	Stanford	USA
+Robert Williams III Headshot
+Robert
+
+Williams III
+
+POR	35	C-F	6-9	249 lbs	Texas A&M	USA
+Vince Williams Jr. Headshot
+Vince
+
+Williams Jr.
+
+MEM	5	G	6-4	205 lbs	Virginia Commonwealth	USA
+Zion Williamson Headshot
+Zion
+
+Williamson
+
+NOP	1	F	6-6	284 lbs	Duke	USA
+Jalen Wilson Headshot
+Jalen
+
+Wilson
+
+BKN	22	F	6-6	220 lbs	Kansas	USA
+James Wiseman Headshot
+James
+
+Wiseman
+
+C	6-11	240 lbs	Memphis	USA
+Danny Wolf Headshot
+Danny
+
+Wolf
+
+BKN	2	F	6-11	250 lbs	Michigan	USA
+Guerschon Yabusele Headshot
+Guerschon
+
+Yabusele
+
+NYK	28	F	6-7	265 lbs	Rouen, France	France
+Yang Hansen Headshot
+Yang
+
+Hansen
+
+POR	16	C	7-1	270 lbs	-	China
+Jahmir Young Headshot
+Jahmir
+
+Young
+
+MIA	11	G	6-0	185 lbs	Maryland	USA
+Trae Young Headshot
+Trae
+
+Young
+
+ATL	11	G	6-2	164 lbs	Oklahoma	USA
+Chris Youngblood Headshot
+Chris
+
+Youngblood
+
+OKC	3	G	6-4		Alabama	USA
+Rocco Zikarsky Headshot
+Rocco
+
+Zikarsky
+
+MIN	44	C	7-3	227 lbs	-	Australia
+Ivica Zubac Headshot
+Ivica
+
+Zubac
+
+LAC	40	C	7-0	240 lbs	Mega Basket	Croatia
