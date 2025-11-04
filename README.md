@@ -17,7 +17,7 @@ A fully on-chain NBA fantasy basketball dApp. Fair, transparent, and verifiable 
 
 ## Testing
 
-### Integration Tests (32 passed)
+### Integration Tests (39 passed)
 The project includes comprehensive integration tests covering:
 
 #### Authentication Tests (9 tests)
@@ -44,6 +44,14 @@ The project includes comprehensive integration tests covering:
 - Complete multi-user workflows
 - Pending invitation retrieval
 
+#### Draft Management Tests (7 tests)
+- Start draft with configurable rounds
+- Draft retrieval and status checking
+- Authorization checks (creator-only)
+- Draft pick retrieval and history
+- Default draft configuration
+- Duplicate draft prevention
+
 ### Running Tests
 ```bash
 cd backend
@@ -52,7 +60,7 @@ mvn clean test
 
 **Test Results:**
 ```
-[INFO] Tests run: 32, Failures: 0, Errors: 0, Skipped: 0
+[INFO] Tests run: 39, Failures: 0, Errors: 0, Skipped: 0
 [INFO] BUILD SUCCESS
 ```
 
@@ -62,7 +70,7 @@ mvn clean test
 - Full Spring Security integration testing
 - Comprehensive error scenario coverage
 - Complete database isolation between tests
-- Execution time: ~84 seconds
+- Execution time: ~90 seconds
 
 ## Getting Started
 
@@ -107,3 +115,12 @@ The frontend will be available at `http://localhost:3000`
 - `POST /api/leagues/{id}/invite` - Invite player to league
 - `GET /api/invitations/pending` - Get pending invitations
 - `POST /api/invitations/{token}/join` - Accept invitation and join league
+
+### Drafts
+- `POST /api/drafts/leagues/{leagueId}/start` - Start draft for league
+- `GET /api/drafts/leagues/{leagueId}` - Get draft status
+- `POST /api/drafts/{draftId}/pick` - Make a draft pick
+- `GET /api/drafts/{draftId}/picks` - Get all picks in draft
+- `GET /api/drafts/{draftId}/picks/user/{userId}` - Get picks by specific user
+- `PUT /api/drafts/{draftId}/pause` - Pause draft (creator only)
+- `PUT /api/drafts/{draftId}/resume` - Resume paused draft (creator only)
