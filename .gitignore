@@ -1,0 +1,53 @@
+# Backend (Maven)
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/*.jar
+backend/*.war
+backend/.idea/
+backend/*.iml
+backend/out/
+backend/build/
+
+# Frontend (Node.js)
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.idea/
+frontend/*.iml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Claude Code
+.claude/
+
+# Documentation (keep locally, don't commit to git)
+SETUP_GUIDE.md
+QUICK_START.md
+IMPLEMENTATION_SUMMARY.md
+ARCHITECTURE.md
+TROUBLESHOOTING.md
+NEXT_STEPS.md
+
+# Miscellaneous
+*.log
+.history/
