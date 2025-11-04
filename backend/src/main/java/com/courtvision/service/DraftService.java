@@ -26,15 +26,18 @@ public class DraftService {
     private final DraftPickRepository draftPickRepository;
     private final LeagueRepository leagueRepository;
     private final LeagueMemberRepository leagueMemberRepository;
+    private final NBAPlayerService nbaPlayerService;
 
     public DraftService(DraftRepository draftRepository,
                        DraftPickRepository draftPickRepository,
                        LeagueRepository leagueRepository,
-                       LeagueMemberRepository leagueMemberRepository) {
+                       LeagueMemberRepository leagueMemberRepository,
+                       NBAPlayerService nbaPlayerService) {
         this.draftRepository = draftRepository;
         this.draftPickRepository = draftPickRepository;
         this.leagueRepository = leagueRepository;
         this.leagueMemberRepository = leagueMemberRepository;
+        this.nbaPlayerService = nbaPlayerService;
     }
 
     /**
@@ -138,6 +141,18 @@ public class DraftService {
         // Validate player name
         if (request.getPlayerName() == null || request.getPlayerName().trim().isEmpty()) {
             throw new IllegalArgumentException("Player name is required");
+        }
+
+        // Validate player exists in NBA API (optional - only if API is available)
+        try {
+            if (!nbaPlayerService.playerExists(request.getPlayerName())) {
+                log.warn("Player not found in NBA API: {}", request.getPlayerName());
+                // Allow the pick anyway - player might be in API but not found due to API issues
+                // This is a warning, not an error
+            }
+        } catch (Exception e) {
+            log.warn("Error validating player with NBA API: {}", e.getMessage());
+            // Don't fail the pick if API is unavailable - proceed anyway
         }
 
         // Check if player already drafted
