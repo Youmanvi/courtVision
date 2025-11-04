@@ -34,7 +34,7 @@ const DashboardPage = () => {
             <p>This is a secure dashboard that only authenticated users can see.</p>
 
             <div className="feature-cards">
-              <div className="feature-card">
+              <div className="feature-card" onClick={() => navigate('/leagues')} style={{ cursor: 'pointer' }}>
                 <h3>🏀 Leagues</h3>
                 <p>Manage your fantasy basketball leagues</p>
               </div>
