@@ -17,6 +17,7 @@ public class InvitationResponse {
     private Long leagueId;
     private String leagueName;
     private String invitedEmail;
+    private String invitationToken;
     private String status;
     private LocalDateTime expiresAt;
     private LocalDateTime createdAt;
@@ -31,6 +32,7 @@ public class InvitationResponse {
                 .leagueId(invitation.getLeague().getId())
                 .leagueName(invitation.getLeague().getName())
                 .invitedEmail(invitation.getInvitedEmail())
+                .invitationToken(invitation.getInvitationToken().toString())
                 .status(invitation.getStatus().name())
                 .expiresAt(invitation.getExpiresAt())
                 .createdAt(invitation.getCreatedAt())
