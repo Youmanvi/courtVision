@@ -64,3 +64,4 @@ scrape/SCRAPER_SUMMARY.txt
 # Miscellaneous
 *.log
 .history/
+.env.example
