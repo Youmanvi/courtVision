@@ -35,6 +35,18 @@ public class User implements UserDetails {
     @Column(nullable = false)
     private String password;
 
+    @Column(name = "solana_wallet", unique = true, length = 44, nullable = false)
+    private String solanaWallet;
+
+    @Column(name = "wallet_verified")
+    private Boolean walletVerified = false;
+
+    @Column(name = "wallet_signature")
+    private String walletSignature;
+
+    @Column(name = "last_wallet_verification")
+    private LocalDateTime lastWalletVerification;
+
     @Column(name = "created_at")
     private LocalDateTime createdAt;
 
@@ -52,11 +64,8 @@ public class User implements UserDetails {
         updatedAt = LocalDateTime.now();
     }
 
-    // UserDetails interface implementation
-
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
-        // Return a default ROLE_USER authority
         return List.of(new SimpleGrantedAuthority("ROLE_USER"));
     }
 

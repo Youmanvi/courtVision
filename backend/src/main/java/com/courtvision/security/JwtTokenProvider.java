@@ -1,5 +1,6 @@
 package com.courtvision.security;
 
+import com.courtvision.entity.User;
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.security.Keys;
 import lombok.extern.slf4j.Slf4j;
@@ -22,19 +23,24 @@ public class JwtTokenProvider {
 
     /**
      * Generate a JWT token from an Authentication object
+     * Includes wallet address and user ID in claims for secure token handling
      */
     public String generateToken(Authentication authentication) {
-        String username = authentication.getName();
+        User user = (User) authentication.getPrincipal();
         Date now = new Date();
         Date expiryDate = new Date(now.getTime() + jwtExpiration);
 
         SecretKey key = Keys.hmacShaKeyFor(jwtSecret.getBytes());
 
         return Jwts.builder()
-                .subject(username)
+                .subject(user.getUsername())
+                .claim("userId", user.getId())
+                .claim("email", user.getEmail())
+                .claim("walletAddress", user.getSolanaWallet())
+                .claim("walletVerified", user.getWalletVerified() != null && user.getWalletVerified())
                 .issuedAt(now)
                 .expiration(expiryDate)
-                .signWith(key)
+                .signWith(key, SignatureAlgorithm.HS512)
                 .compact();
     }
 
@@ -49,6 +55,45 @@ public class JwtTokenProvider {
                 .parseSignedClaims(token)
                 .getPayload();
         return claims.getSubject();
+    }
+
+    /**
+     * Get user ID from JWT token
+     */
+    public Long getUserIdFromToken(String token) {
+        SecretKey key = Keys.hmacShaKeyFor(jwtSecret.getBytes());
+        Claims claims = Jwts.parser()
+                .verifyWith(key)
+                .build()
+                .parseSignedClaims(token)
+                .getPayload();
+        return claims.get("userId", Long.class);
+    }
+
+    /**
+     * Get wallet address from JWT token
+     */
+    public String getWalletAddressFromToken(String token) {
+        SecretKey key = Keys.hmacShaKeyFor(jwtSecret.getBytes());
+        Claims claims = Jwts.parser()
+                .verifyWith(key)
+                .build()
+                .parseSignedClaims(token)
+                .getPayload();
+        return claims.get("walletAddress", String.class);
+    }
+
+    /**
+     * Get wallet verification status from JWT token
+     */
+    public Boolean getWalletVerifiedFromToken(String token) {
+        SecretKey key = Keys.hmacShaKeyFor(jwtSecret.getBytes());
+        Claims claims = Jwts.parser()
+                .verifyWith(key)
+                .build()
+                .parseSignedClaims(token)
+                .getPayload();
+        return claims.get("walletVerified", Boolean.class);
     }
 
     /**

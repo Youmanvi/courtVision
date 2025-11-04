@@ -1,12 +1,10 @@
 package com.courtvision.controller;
 
-import com.courtvision.dto.ApiResponse;
-import com.courtvision.dto.LoginRequest;
-import com.courtvision.dto.LoginResponse;
-import com.courtvision.dto.RegisterRequest;
+import com.courtvision.dto.*;
 import com.courtvision.entity.User;
 import com.courtvision.repository.UserRepository;
 import com.courtvision.security.JwtTokenProvider;
+import com.courtvision.util.SolanaWalletValidator;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -36,11 +34,26 @@ public class AuthController {
     private JwtTokenProvider jwtTokenProvider;
 
     /**
-     * Register a new user
+     * Register a new user with Solana wallet
+     * Wallet address is validated and stored securely
      */
     @PostMapping("/register")
     public ResponseEntity<ApiResponse> register(@RequestBody RegisterRequest registerRequest) {
         try {
+            // Validate and normalize Solana wallet address
+            String validatedWallet;
+            try {
+                validatedWallet = SolanaWalletValidator.validateAndNormalize(
+                        registerRequest.getSolanaWallet()
+                );
+            } catch (IllegalArgumentException e) {
+                return ResponseEntity.status(HttpStatus.BAD_REQUEST)
+                        .body(ApiResponse.builder()
+                                .success(false)
+                                .message("Invalid Solana wallet address: " + e.getMessage())
+                                .build());
+            }
+
             // Check if username already exists
             if (userRepository.existsByUsername(registerRequest.getUsername())) {
                 return ResponseEntity.status(HttpStatus.BAD_REQUEST)
@@ -59,26 +72,38 @@ public class AuthController {
                                 .build());
             }
 
-            // Create new user
+            // Check if wallet address already registered
+            if (userRepository.existsBySolanaWallet(validatedWallet)) {
+                return ResponseEntity.status(HttpStatus.BAD_REQUEST)
+                        .body(ApiResponse.builder()
+                                .success(false)
+                                .message("This Solana wallet is already registered")
+                                .build());
+            }
+
+            // Create new user with wallet address
             User user = User.builder()
                     .username(registerRequest.getUsername())
                     .email(registerRequest.getEmail())
                     .password(passwordEncoder.encode(registerRequest.getPassword()))
+                    .solanaWallet(validatedWallet)
+                    .walletVerified(false)
                     .build();
 
             userRepository.save(user);
 
-            log.info("User registered successfully: {}", registerRequest.getUsername());
+            log.info("User registered successfully: {} with wallet: {}",
+                    registerRequest.getUsername(), validatedWallet);
 
             return ResponseEntity.status(HttpStatus.CREATED)
                     .body(ApiResponse.builder()
                             .success(true)
-                            .message("User registered successfully")
+                            .message("User registered successfully. Please verify your wallet.")
                             .data(user.getId())
                             .build());
 
         } catch (Exception e) {
-            log.error("Error registering user: {}", e.getMessage());
+            log.error("Error registering user: {}", e.getMessage(), e);
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
                     .body(ApiResponse.builder()
                             .success(false)
@@ -88,7 +113,8 @@ public class AuthController {
     }
 
     /**
-     * Login user and return JWT token
+     * Login user and return JWT token with wallet information
+     * JWT token includes wallet address for secure, stateless authentication
      */
     @PostMapping("/login")
     public ResponseEntity<ApiResponse> login(@RequestBody LoginRequest loginRequest) {
@@ -101,17 +127,23 @@ public class AuthController {
                     )
             );
 
-            // Generate JWT token
+            User user = (User) authentication.getPrincipal();
+
+            // Generate JWT token (includes wallet address in claims)
             String token = jwtTokenProvider.generateToken(authentication);
 
-            // Build and return response
+            // Build and return response with wallet information
             LoginResponse loginResponse = LoginResponse.builder()
                     .accessToken(token)
                     .tokenType("Bearer")
-                    .username(loginRequest.getUsername())
+                    .username(user.getUsername())
+                    .walletAddress(user.getSolanaWallet())
+                    .walletVerified(user.getWalletVerified())
+                    .userId(user.getId())
                     .build();
 
-            log.info("User logged in successfully: {}", loginRequest.getUsername());
+            log.info("User logged in successfully: {} | Wallet: {}",
+                    loginRequest.getUsername(), user.getSolanaWallet());
 
             return ResponseEntity.ok()
                     .body(ApiResponse.builder()
@@ -128,7 +160,7 @@ public class AuthController {
                             .message("Invalid username or password")
                             .build());
         } catch (Exception e) {
-            log.error("Error logging in user: {}", e.getMessage());
+            log.error("Error logging in user: {}", e.getMessage(), e);
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
                     .body(ApiResponse.builder()
                             .success(false)
@@ -139,19 +171,29 @@ public class AuthController {
 
     /**
      * Get current user information (requires authentication)
+     * Returns user details including wallet information from JWT
      */
     @GetMapping("/me")
-    public ResponseEntity<ApiResponse> getCurrentUser() {
+    public ResponseEntity<ApiResponse> getCurrentUser(Authentication authentication) {
         try {
-            // In a real application, you would get the authenticated user from SecurityContextHolder
-            // For now, returning a simple response
+            if (authentication == null) {
+                return ResponseEntity.status(HttpStatus.UNAUTHORIZED)
+                        .body(ApiResponse.builder()
+                                .success(false)
+                                .message("Not authenticated")
+                                .build());
+            }
+
+            User user = (User) authentication.getPrincipal();
+
             return ResponseEntity.ok()
                     .body(ApiResponse.builder()
                             .success(true)
                             .message("Current user info")
+                            .data(user)
                             .build());
         } catch (Exception e) {
-            log.error("Error fetching current user: {}", e.getMessage());
+            log.error("Error fetching current user: {}", e.getMessage(), e);
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
                     .body(ApiResponse.builder()
                             .success(false)
