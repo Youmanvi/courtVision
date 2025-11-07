@@ -123,7 +123,6 @@ public class ScoreController {
             @PathVariable Long leagueId,
             Authentication authentication) {
 
-        User user = (User) authentication.getPrincipal();
 
         // In a real app, verify user is league creator
         // For now, allowing anyone to trigger

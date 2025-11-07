@@ -39,7 +39,7 @@ public class NBAPlayerController {
      */
     @GetMapping("/players/search")
     public ResponseEntity<ApiResponse> searchPlayersByName(
-            @RequestParam(required = true) String name) {
+            @RequestParam String name) {
         List<NBAPlayerDTO> players = nbaPlayerService.searchPlayersByName(name);
         return ResponseEntity.ok(
                 ApiResponse.builder()
@@ -55,7 +55,7 @@ public class NBAPlayerController {
      */
     @GetMapping("/players/team")
     public ResponseEntity<ApiResponse> searchPlayersByTeam(
-            @RequestParam(required = true) String team) {
+            @RequestParam String team) {
         List<NBAPlayerDTO> players = nbaPlayerService.searchPlayersByTeam(team);
         return ResponseEntity.ok(
                 ApiResponse.builder()
@@ -71,7 +71,7 @@ public class NBAPlayerController {
      */
     @GetMapping("/players/position")
     public ResponseEntity<ApiResponse> searchPlayersByPosition(
-            @RequestParam(required = true) String position) {
+            @RequestParam String position) {
         List<NBAPlayerDTO> players = nbaPlayerService.searchPlayersByPosition(position);
         return ResponseEntity.ok(
                 ApiResponse.builder()
