@@ -59,6 +59,14 @@ SOLANA_WALLET_INTEGRATION.md
 WALLET_SETUP_QUICK_START.md
 WEBSOCKET_LEADERBOARD_SETUP.md
 WEBSOCKET_LEADERBOARD_SETUP.md
+API_TESTING_README.md
+CHANGES_SUMMARY.md
+DELIVERABLES.md
+IMPLEMENTATION_COMPLETE.md
+run_postman_tests.ps1
+run_postman_tests.sh
+TEST_SETUP_COMPLETE.md
+verify_test_setup.ps1
 
 # Scraper Documentation & Summaries
 scrape/README.md
@@ -70,3 +78,16 @@ scrape/SCRAPER_SUMMARY.txt
 .history/
 .env.example
 BLOCKCHAIN_INTEGRATION_SUMMARY.md
+
+# Postman Test Artifacts (Generated)
+postman-test-results.json
+postman-test-report.html
+postman-test-report-*.html
+newman-report.json
+newman-results.json
+
+# Test Execution Artifacts
+test-results/
+.newman/
+report/
+reports/
