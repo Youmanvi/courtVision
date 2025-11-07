@@ -212,7 +212,7 @@ public class WinnerController {
     public ResponseEntity<?> getWinnerStatistics() {
         try {
             long totalWinners = leagueWinnerRepository.count();
-            long confirmedTransactions = leagueWinnerRepository.countByTransactionStatus(TransactionStatus.CONFIRMED);
+            long confirmedTransactions = leagueWinnerRepository.findByTransactionStatus(TransactionStatus.CONFIRMED).size();
             long pendingTransactions = leagueWinnerRepository.findPendingTransactions().size();
             long failedTransactions = leagueWinnerRepository.findFailedTransactions().size();
 

@@ -69,3 +69,4 @@ scrape/SCRAPER_SUMMARY.txt
 *.log
 .history/
 .env.example
+BLOCKCHAIN_INTEGRATION_SUMMARY.md

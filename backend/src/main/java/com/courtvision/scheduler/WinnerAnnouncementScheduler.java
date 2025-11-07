@@ -1,8 +1,8 @@
 package com.courtvision.scheduler;
 
 import com.courtvision.entity.League;
+import com.courtvision.entity.League.LeagueStatus;
 import com.courtvision.entity.LeagueWinner;
-import com.courtvision.entity.LeagueStatus;
 import com.courtvision.entity.ScoreCalculation;
 import com.courtvision.entity.TransactionStatus;
 import com.courtvision.kafka.WinnerAnnouncementEvent;
@@ -50,8 +50,11 @@ public class WinnerAnnouncementScheduler {
         try {
             log.info("=== Winner Announcement Scheduled Task Started ===");
 
-            // Get all active leagues
-            List<League> activeLeagues = leagueRepository.findByStatus(LeagueStatus.ACTIVE);
+            // Get all active leagues - note: repository doesn't have findByStatus, so we get all and filter
+            List<League> allLeagues = leagueRepository.findAll();
+            List<League> activeLeagues = allLeagues.stream()
+                .filter(l -> l.getStatus() == LeagueStatus.ACTIVE)
+                .toList();
             log.info("Found {} active leagues", activeLeagues.size());
 
             int successCount = 0;
