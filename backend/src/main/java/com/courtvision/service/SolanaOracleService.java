@@ -18,17 +18,11 @@ import java.nio.ByteBuffer;
 import java.nio.charset.StandardCharsets;
 import java.security.KeyFactory;
 import java.security.KeyPair;
-import java.security.MessageDigest;
-import java.security.PublicKey;
-import java.security.SecureRandom;
 import java.security.interfaces.EdECPrivateKey;
-import java.security.spec.EdECPoint;
 import java.security.spec.EdECPrivateKeySpec;
 import java.security.spec.NamedParameterSpec;
-import java.util.ArrayList;
 import java.util.Base64;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 import java.util.UUID;
 
@@ -184,12 +178,10 @@ public class SolanaOracleService {
      */
     private byte[] buildTransaction(KeyPair keypair, Map<String, Object> oracleData) {
         try {
-            // Create instruction data from oracle data
-            byte[] instructionData = createInstructionData(oracleData);
-
             // Build the full transaction
             // For now, we'll create a simple memo transaction as a placeholder
             // In production, this would be a full instruction to the oracle program
+            // and use the keypair for signing
 
             String memoText = String.format("CourVision Winner: %s Score: %.2f",
                 oracleData.get("winnerAddress"),
@@ -261,16 +253,14 @@ public class SolanaOracleService {
 
     /**
      * Get public key in base58 format from keypair
+     * TODO: Implement proper key derivation for Ed25519 public key extraction
      */
     private String getPublicKeyBase58(KeyPair keypair) {
-        try {
-            // For Ed25519, we can derive public key from private key
-            // This is a simplified version - use proper key derivation in production
-            return "DerivedPublicKey";
-        } catch (Exception e) {
-            log.error("Error getting public key", e);
-            return null;
-        }
+        // TODO: Derive actual public key from keypair in production
+        // For now, return placeholder value
+        // In production: extract public key from keypair and encode to base58
+        log.debug("Public key derivation called for Oracle keypair");
+        return "DerivedPublicKey";
     }
 
     /**
@@ -324,16 +314,6 @@ public class SolanaOracleService {
             log.error("Error calling Solana RPC", e);
             return null;
         }
-    }
-
-    /**
-     * Call original Solana RPC for oracle data (deprecated - use callSolanaRpcWithSignedTx)
-     */
-    private String callSolanaRpc(Map<String, Object> oracleData) {
-        // This method is kept for backward compatibility
-        // The actual implementation is now in callSolanaRpcWithSignedTx
-        log.debug("callSolanaRpc called - delegating to createAndSubmitTransaction");
-        return null;
     }
 
     /**
