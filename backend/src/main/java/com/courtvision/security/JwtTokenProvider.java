@@ -40,7 +40,7 @@ public class JwtTokenProvider {
                 .claim("walletVerified", user.getWalletVerified() != null && user.getWalletVerified())
                 .issuedAt(now)
                 .expiration(expiryDate)
-                .signWith(key, SignatureAlgorithm.HS512)
+                .signWith(key)
                 .compact();
     }
 
@@ -115,7 +115,7 @@ public class JwtTokenProvider {
             log.error("Unsupported JWT token: {}", ex.getMessage());
         } catch (IllegalArgumentException ex) {
             log.error("JWT claims string is empty: {}", ex.getMessage());
-        } catch (SignatureException ex) {
+        } catch (JwtException ex) {
             log.error("JWT signature validation failed: {}", ex.getMessage());
         }
         return false;

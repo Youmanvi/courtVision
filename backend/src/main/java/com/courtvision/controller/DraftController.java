@@ -162,7 +162,7 @@ public class DraftController {
     public ResponseEntity<ApiResponse> getDraftPicks(@PathVariable Long draftId) {
         try {
             List<DraftPickResponse> picks = draftService.getDraftPicks(draftId);
-            return ResponseEntity.ok(ApiResponse.<List<DraftPickResponse>>builder()
+            return ResponseEntity.ok(ApiResponse.builder()
                     .success(true)
                     .message("Draft picks retrieved successfully")
                     .data(picks)
@@ -170,7 +170,7 @@ public class DraftController {
         } catch (Exception e) {
             log.error("Error retrieving draft picks", e);
             return ResponseEntity.internalServerError()
-                    .body(ApiResponse.<List<DraftPickResponse>>builder()
+                    .body(ApiResponse.builder()
                             .success(false)
                             .message("Error retrieving draft picks")
                             .build());
@@ -191,7 +191,7 @@ public class DraftController {
             @PathVariable Long userId) {
         try {
             List<DraftPickResponse> picks = draftService.getUserDraftPicks(draftId, userId);
-            return ResponseEntity.ok(ApiResponse.<List<DraftPickResponse>>builder()
+            return ResponseEntity.ok(ApiResponse.builder()
                     .success(true)
                     .message("User draft picks retrieved successfully")
                     .data(picks)
@@ -199,7 +199,7 @@ public class DraftController {
         } catch (Exception e) {
             log.error("Error retrieving user draft picks", e);
             return ResponseEntity.internalServerError()
-                    .body(ApiResponse.<List<DraftPickResponse>>builder()
+                    .body(ApiResponse.builder()
                             .success(false)
                             .message("Error retrieving user draft picks")
                             .build());
