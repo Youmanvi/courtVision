@@ -1,6 +1,7 @@
 package com.courtvision.config;
 
 import com.courtvision.dto.ScoreUpdateEvent;
+import com.courtvision.kafka.WinnerAnnouncementEvent;
 import org.apache.kafka.clients.admin.AdminClientConfig;
 import org.apache.kafka.clients.admin.NewTopic;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
@@ -32,6 +33,7 @@ public class KafkaConfig {
 
     public static final String LEAGUE_SCORES_TOPIC = "league-scores-updated";
     public static final String SCORE_CALCULATION_TOPIC = "score-calculation-requests";
+    public static final String LEAGUE_WINNERS_TOPIC = "league-winners-announced";
 
     @Value("${spring.kafka.bootstrap-servers:localhost:9092}")
     private String bootstrapServers;
@@ -66,6 +68,17 @@ public class KafkaConfig {
     @Bean
     public NewTopic scoreCalculationTopic() {
         return TopicBuilder.name(SCORE_CALCULATION_TOPIC)
+                .partitions(1)
+                .replicas(1)
+                .build();
+    }
+
+    /**
+     * Create league-winners-announced topic
+     */
+    @Bean
+    public NewTopic leagueWinnersTopic() {
+        return TopicBuilder.name(LEAGUE_WINNERS_TOPIC)
                 .partitions(1)
                 .replicas(1)
                 .build();
@@ -142,5 +155,58 @@ public class KafkaConfig {
     @Bean
     public KafkaTemplate<String, String> kafkaTemplate() {
         return new KafkaTemplate<>(producerFactory());
+    }
+
+    /**
+     * Producer factory for WinnerAnnouncementEvent messages
+     */
+    @Bean
+    public ProducerFactory<String, WinnerAnnouncementEvent> winnerAnnouncementProducerFactory() {
+        Map<String, Object> configProps = new HashMap<>();
+        configProps.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, bootstrapServers);
+        configProps.put(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG, StringSerializer.class);
+        configProps.put(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG, JsonSerializer.class);
+        configProps.put(ProducerConfig.ACKS_CONFIG, "all");
+        configProps.put(ProducerConfig.RETRIES_CONFIG, 3);
+        configProps.put(ProducerConfig.MAX_IN_FLIGHT_REQUESTS_PER_CONNECTION, 1);
+        return new DefaultKafkaProducerFactory<>(configProps);
+    }
+
+    /**
+     * Kafka template for sending WinnerAnnouncementEvent messages
+     */
+    @Bean
+    public KafkaTemplate<String, WinnerAnnouncementEvent> winnerAnnouncementKafkaTemplate() {
+        return new KafkaTemplate<>(winnerAnnouncementProducerFactory());
+    }
+
+    /**
+     * Consumer factory for WinnerAnnouncementEvent messages
+     */
+    @Bean
+    public ConsumerFactory<String, WinnerAnnouncementEvent> winnerAnnouncementConsumerFactory() {
+        Map<String, Object> configProps = new HashMap<>();
+        configProps.put(ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG, bootstrapServers);
+        configProps.put(ConsumerConfig.GROUP_ID_CONFIG, "courtvision-winner-consumer-group");
+        configProps.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class);
+        configProps.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG, JsonDeserializer.class);
+        configProps.put(JsonDeserializer.VALUE_DEFAULT_TYPE, WinnerAnnouncementEvent.class.getName());
+        configProps.put(JsonDeserializer.TRUSTED_PACKAGES, "*");
+        configProps.put(ConsumerConfig.AUTO_OFFSET_RESET_CONFIG, "earliest");
+        configProps.put(ConsumerConfig.ENABLE_AUTO_COMMIT_CONFIG, true);
+        return new DefaultKafkaConsumerFactory<>(configProps);
+    }
+
+    /**
+     * Listener container factory for WinnerAnnouncementEvent consumers
+     */
+    @Bean
+    public KafkaListenerContainerFactory<ConcurrentMessageListenerContainer<String, WinnerAnnouncementEvent>>
+    winnerAnnouncementKafkaListenerContainerFactory() {
+        ConcurrentKafkaListenerContainerFactory<String, WinnerAnnouncementEvent> factory =
+                new ConcurrentKafkaListenerContainerFactory<>();
+        factory.setConsumerFactory(winnerAnnouncementConsumerFactory());
+        factory.setConcurrency(1);
+        return factory;
     }
 }

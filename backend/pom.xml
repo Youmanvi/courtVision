@@ -112,6 +112,26 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-quartz</artifactId>
         </dependency>
+
+        <!-- Solana Web3 for Java -->
+        <dependency>
+            <groupId>org.sol4k</groupId>
+            <artifactId>sol4k</artifactId>
+            <version>0.1.5</version>
+        </dependency>
+
+        <!-- HTTP Client for Solana RPC calls -->
+        <dependency>
+            <groupId>org.apache.httpcomponents.client5</groupId>
+            <artifactId>httpclient5</artifactId>
+            <version>5.2.1</version>
+        </dependency>
+
+        <!-- JSON processing for Solana -->
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
