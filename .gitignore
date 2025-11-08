@@ -91,3 +91,5 @@ test-results/
 .newman/
 report/
 reports/
+SOLANA_ORACLE_DEPLOYMENT.md
+SOLANA_SETUP_ALTERNATIVE.md

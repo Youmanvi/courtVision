@@ -1,0 +1,18 @@
+[toolchain]
+anchor_version = "0.29.0"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[[test.validator]]
+url = "https://api.devnet.solana.com"
+
+[programs.devnet]
+courtvision_oracle = "YOUR_PROGRAM_ID_HERE"
+
+[registry]
+url = "https://api.dev.apr.dev"
+
+[scripts]
+test = "yarn run ts-mocha --timeout 1000000 tests/**/*.ts"
