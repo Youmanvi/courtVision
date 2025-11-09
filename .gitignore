@@ -65,7 +65,7 @@ DELIVERABLES.md
 IMPLEMENTATION_COMPLETE.md
 run_postman_tests.ps1
 run_postman_tests.sh
-TEST_SETUP_COMPLETE.md
+TEST_SETUP_COMPLETE.md1
 verify_test_setup.ps1
 
 # Scraper Documentation & Summaries
@@ -102,3 +102,10 @@ SESSION_SUMMARY.md
 SOLANA_BACKEND_SETUP_SUMMARY.md
 configure_solana.ps1
 README_UPDATE_SUMMARY.md
+verify_oracle_deployment.ps1
+test_oracle.sh
+SOLANA_DEVNET_DEPLOYMENT.md
+NEXT_STEPS_ORACLE_DEPLOYMENT.md
+DEPLOYMENT_RESOURCES.md
+DEPLOYMENT_QUICK_START.md
+LEAGUE_SECURITY.md

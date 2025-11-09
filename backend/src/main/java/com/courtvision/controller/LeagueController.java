@@ -223,6 +223,47 @@ public class LeagueController {
     }
 
     /**
+     * Remove a member from the league (creator only)
+     * DELETE /api/leagues/{leagueId}/members/{userId}
+     */
+    @DeleteMapping("/{leagueId}/members/{userId}")
+    public ResponseEntity<ApiResponse> removeMember(
+            @PathVariable Long leagueId,
+            @PathVariable Long userId) {
+        try {
+            User user = getCurrentUser();
+
+            leagueService.removeMember(leagueId, userId, user);
+
+            return ResponseEntity.ok()
+                    .body(ApiResponse.builder()
+                            .success(true)
+                            .message("Member removed successfully")
+                            .build());
+
+        } catch (SecurityException e) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                    .body(ApiResponse.builder()
+                            .success(false)
+                            .message(e.getMessage())
+                            .build());
+        } catch (IllegalArgumentException e) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST)
+                    .body(ApiResponse.builder()
+                            .success(false)
+                            .message(e.getMessage())
+                            .build());
+        } catch (Exception e) {
+            log.error("Error removing member: {}", e.getMessage());
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                    .body(ApiResponse.builder()
+                            .success(false)
+                            .message("Error removing member: " + e.getMessage())
+                            .build());
+        }
+    }
+
+    /**
      * Invite a player to the league (creator only)
      * POST /api/leagues/{leagueId}/invite
      */

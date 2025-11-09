@@ -18,6 +18,7 @@ const LeagueDetailPage = () => {
     fetchLeague,
     fetchLeagueMembers,
     deleteLeague,
+    removeMember,
   } = useLeague();
 
   const [showInviteModal, setShowInviteModal] = useState(false);
@@ -60,6 +61,15 @@ const LeagueDetailPage = () => {
     } else {
       setDeleteConfirm(true);
       setTimeout(() => setDeleteConfirm(false), 5000);
+    }
+  };
+
+  const handleRemoveMember = async (memberId, memberUsername) => {
+    if (window.confirm(`Are you sure you want to remove ${memberUsername} from the league?`)) {
+      const result = await removeMember(leagueId, memberId);
+      if (result.success) {
+        // Member list will be updated via the context
+      }
     }
   };
 
@@ -161,15 +171,25 @@ const LeagueDetailPage = () => {
           ) : (
             <div className="rosters-grid">
               {leagueMembers.map((member) => (
-                <PlayerRosterCard
-                  key={member.userId}
-                  memberName={member.username}
-                  memberEmail={member.email}
-                  memberRole={member.role}
-                  isCurrentUser={member.userId === user?.id}
-                  roster={rosters[member.userId] || []}
-                  rosterLimit={5}
-                />
+                <div key={member.userId} className="roster-item-wrapper">
+                  <PlayerRosterCard
+                    memberName={member.username}
+                    memberEmail={member.email}
+                    memberRole={member.role}
+                    isCurrentUser={member.userId === user?.id}
+                    roster={rosters[member.userId] || []}
+                    rosterLimit={5}
+                  />
+                  {isCreator && member.userId !== user?.id && (
+                    <button
+                      className="btn btn-small btn-danger"
+                      onClick={() => handleRemoveMember(member.userId, member.username)}
+                      title="Remove member from league"
+                    >
+                      Remove
+                    </button>
+                  )}
+                </div>
               ))}
             </div>
           )}

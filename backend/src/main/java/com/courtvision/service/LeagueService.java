@@ -311,6 +311,39 @@ public class LeagueService {
     }
 
     /**
+     * Remove a member from the league (only creator can remove)
+     */
+    @Transactional
+    public void removeMember(Long leagueId, Long userId, User requestingUser) {
+        League league = leagueRepository.findById(leagueId)
+                .orElseThrow(() -> new IllegalArgumentException("League not found"));
+
+        // Only creator can remove members
+        if (!league.isCreator(requestingUser)) {
+            throw new SecurityException("Only the league creator can remove members");
+        }
+
+        // Validate user exists
+        User userToRemove = userRepository.findById(userId)
+                .orElseThrow(() -> new IllegalArgumentException("User not found"));
+
+        // Check if user is actually a member
+        LeagueMember member = leagueMemberRepository.findByLeagueIdAndUserId(leagueId, userId)
+                .orElseThrow(() -> new IllegalArgumentException("User is not a member of this league"));
+
+        // Cannot remove the creator (league owner)
+        if (member.isOwner()) {
+            throw new IllegalArgumentException("Cannot remove the league creator");
+        }
+
+        // Remove member
+        leagueMemberRepository.delete(member);
+
+        log.info("Member {} removed from league {} (ID: {})",
+                 userToRemove.getUsername(), league.getName(), league.getId());
+    }
+
+    /**
      * Validate email format
      */
     private boolean isValidEmail(String email) {

@@ -271,6 +271,40 @@ export const LeagueProvider = ({ children }) => {
   }, []);
 
   /**
+   * Remove a member from the league (creator only)
+   */
+  const removeMember = useCallback(async (leagueId, userId) => {
+    setLoading(true);
+    setError(null);
+    try {
+      const response = await axios.delete(`${API_BASE_URL}/${leagueId}/members/${userId}`);
+      if (response.data.success) {
+        // Update league members by removing the deleted member
+        setLeagueMembers(leagueMembers.filter((m) => m.userId !== userId));
+        return {
+          success: true,
+          message: response.data.message,
+        };
+      } else {
+        setError(response.data.message);
+        return {
+          success: false,
+          message: response.data.message,
+        };
+      }
+    } catch (err) {
+      const errorMsg = err.response?.data?.message || 'Failed to remove member';
+      setError(errorMsg);
+      return {
+        success: false,
+        message: errorMsg,
+      };
+    } finally {
+      setLoading(false);
+    }
+  }, [leagueMembers]);
+
+  /**
    * Clear error
    */
   const clearError = useCallback(() => {
@@ -296,6 +330,7 @@ export const LeagueProvider = ({ children }) => {
     invitePlayer,
     joinLeague,
     fetchPendingInvitations,
+    removeMember,
     clearError,
   };
 
